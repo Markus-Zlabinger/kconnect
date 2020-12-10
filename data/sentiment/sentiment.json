@@ -1,0 +1,6764 @@
+{
+    "11381380:10": {
+        "19": "positive",
+        "17": "neutral",
+        "18": "neutral",
+        "11": "neutral",
+        "15": "positive"
+    },
+    "8281847:5": {
+        "19": "negative",
+        "17": "negative"
+    },
+    "8281847:6": {
+        "19": "positive",
+        "17": "positive"
+    },
+    "8281847:7": {
+        "19": "negative",
+        "17": "neutral"
+    },
+    "8281847:8": {
+        "19": "negative",
+        "17": "negative"
+    },
+    "8281847:9": {
+        "19": "negative",
+        "17": "negative",
+        "18": "neutral",
+        "11": "neutral",
+        "15": "negative"
+    },
+    "23617696:16": {
+        "19": "neutral",
+        "17": "neutral",
+        "18": "neutral",
+        "11": "neutral",
+        "15": "neutral"
+    },
+    "1745027:6": {
+        "19": "positive",
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "15": "positive"
+    },
+    "11302591:10": {
+        "19": "negative",
+        "17": "positive",
+        "18": "positive",
+        "11": "neutral",
+        "15": "negative"
+    },
+    "20456040:13": {
+        "19": "neutral",
+        "17": "neutral",
+        "18": "neutral",
+        "11": "negative",
+        "15": "neutral"
+    },
+    "20456040:14": {
+        "19": "positive",
+        "17": "negative",
+        "18": "positive",
+        "11": "positive",
+        "15": "positive"
+    },
+    "20456040:15": {
+        "19": "neutral",
+        "17": "neutral",
+        "18": "neutral",
+        "11": "neutral",
+        "15": "neutral"
+    },
+    "9935253:10": {
+        "17": "positive",
+        "18": "neutral",
+        "11": "positive",
+        "19": "positive",
+        "15": "neutral"
+    },
+    "25775165:10": {
+        "17": "negative",
+        "18": "neutral",
+        "11": "positive",
+        "19": "negative",
+        "15": "neutral"
+    },
+    "25775165:11": {
+        "17": "positive",
+        "18": "positive",
+        "11": "neutral",
+        "19": "neutral",
+        "15": "negative"
+    },
+    "18477078:7": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "21603891:9": {
+        "17": "negative",
+        "18": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "15": "positive"
+    },
+    "21603891:10": {
+        "17": "neutral",
+        "18": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "15": "neutral"
+    },
+    "15156419:11": {
+        "17": "negative",
+        "18": "negative",
+        "11": "negative",
+        "19": "negative",
+        "15": "negative"
+    },
+    "25771760:11": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "24884787:9": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "18930378:5": {
+        "17": "positive",
+        "15": "positive"
+    },
+    "18930378:6": {
+        "17": "neutral",
+        "15": "positive"
+    },
+    "18930378:7": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "14639675:5": {
+        "17": "positive"
+    },
+    "14639675:6": {
+        "17": "neutral",
+        "18": "neutral"
+    },
+    "14639675:7": {
+        "17": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "14639675:8": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "14639675:9": {
+        "17": "neutral",
+        "18": "negative",
+        "11": "negative",
+        "19": "negative",
+        "15": "neutral"
+    },
+    "24255991:9": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "12232562:12": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "12232562:13": {
+        "17": "neutral",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "20823643:9": {
+        "17": "neutral",
+        "18": "neutral",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "20823643:10": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "19773024:7": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "19773024:8": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "11793023:11": {
+        "17": "neutral",
+        "18": "positive",
+        "11": "positive",
+        "19": "neutral",
+        "15": "positive"
+    },
+    "11793023:12": {
+        "17": "neutral",
+        "18": "positive",
+        "11": "positive",
+        "19": "neutral",
+        "15": "neutral"
+    },
+    "1714885:13": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "1714885:14": {
+        "17": "neutral",
+        "18": "neutral",
+        "11": "neutral",
+        "19": "positive",
+        "15": "positive"
+    },
+    "1714885:15": {
+        "17": "neutral",
+        "18": "positive",
+        "11": "neutral",
+        "19": "positive",
+        "15": "positive"
+    },
+    "23094903:8": {
+        "17": "positive",
+        "18": "neutral",
+        "11": "neutral",
+        "19": "positive",
+        "15": "positive"
+    },
+    "23094903:9": {
+        "17": "neutral",
+        "18": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "15": "neutral"
+    },
+    "23094903:10": {
+        "17": "neutral",
+        "18": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "15": "neutral"
+    },
+    "9646891:7": {
+        "17": "positive",
+        "18": "negative",
+        "11": "neutral",
+        "19": "positive",
+        "15": "negative"
+    },
+    "11563408:7": {
+        "17": "positive",
+        "18": "neutral",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "11994888:8": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "11994888:9": {
+        "17": "neutral",
+        "18": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "15": "neutral"
+    },
+    "18154911:9": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "10682150:9": {
+        "17": "positive",
+        "18": "positive"
+    },
+    "10682150:10": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "19741313:12": {
+        "17": "neutral",
+        "18": "positive",
+        "11": "neutral",
+        "19": "neutral",
+        "15": "positive"
+    },
+    "19741313:13": {
+        "17": "neutral",
+        "18": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "15": "neutral"
+    },
+    "19741313:14": {
+        "17": "negative",
+        "18": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "15": "negative"
+    },
+    "1826987:4": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "21470071:7": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "neutral"
+    },
+    "8057000:9": {
+        "17": "neutral",
+        "18": "neutral",
+        "11": "neutral",
+        "19": "positive",
+        "15": "neutral"
+    },
+    "11561046:5": {
+        "17": "positive",
+        "18": "positive",
+        "11": "negative",
+        "19": "negative",
+        "15": "negative"
+    },
+    "7375236:7": {
+        "17": "negative",
+        "18": "negative",
+        "11": "neutral",
+        "19": "negative",
+        "15": "negative"
+    },
+    "16084584:11": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "1480310:11": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "1480310:12": {
+        "17": "neutral",
+        "18": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "15": "neutral"
+    },
+    "11876716:11": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "18617310:11": {
+        "17": "positive",
+        "18": "positive",
+        "11": "neutral",
+        "19": "positive",
+        "15": "neutral"
+    },
+    "18617310:12": {
+        "17": "neutral",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "6389909:8": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "6389909:9": {
+        "17": "negative",
+        "11": "neutral",
+        "19": "negative",
+        "15": "neutral"
+    },
+    "6389909:10": {
+        "17": "neutral",
+        "18": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "15": "neutral"
+    },
+    "6389909:11": {
+        "17": "neutral",
+        "18": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "15": "neutral"
+    },
+    "15056989:17": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "15056989:18": {
+        "17": "neutral",
+        "18": "positive",
+        "11": "neutral",
+        "19": "positive",
+        "15": "positive"
+    },
+    "15056989:19": {
+        "17": "neutral",
+        "18": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "15": "neutral"
+    },
+    "15056989:20": {
+        "17": "neutral",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "6123070:7": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "6123070:8": {
+        "17": "neutral",
+        "18": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "15": "neutral"
+    },
+    "15612515:10": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "15017517:8": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "11114637:10": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "11114637:11": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "8477212:13": {
+        "17": "neutral",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "10506854:17": {
+        "17": "positive",
+        "18": "positive",
+        "11": "neutral",
+        "19": "positive",
+        "15": "positive"
+    },
+    "10506854:18": {
+        "17": "neutral",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "11493247:5": {
+        "17": "positive",
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "positive"
+    },
+    "21362524:8": {
+        "17": "neutral",
+        "18": "neutral",
+        "11": "positive",
+        "19": "neutral",
+        "15": "neutral"
+    },
+    "21362524:9": {
+        "17": "positive",
+        "18": "positive",
+        "11": "neutral",
+        "19": "neutral",
+        "15": "positive"
+    },
+    "19254586:11": {
+        "17": "positive",
+        "18": "positive",
+        "11": "neutral",
+        "19": "positive",
+        "15": "positive"
+    },
+    "17277653:13": {
+        "17": "neutral",
+        "18": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "15": "neutral"
+    },
+    "17277653:14": {
+        "17": "negative",
+        "18": "negative",
+        "11": "neutral",
+        "19": "negative",
+        "15": "negative"
+    },
+    "7387242:9": {
+        "17": "neutral",
+        "18": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "15": "neutral"
+    },
+    "15560810:14": {
+        "17": "positive"
+    },
+    "15560810:15": {
+        "17": "neutral"
+    },
+    "9492717:12": {
+        "17": "positive"
+    },
+    "9492717:13": {
+        "17": "neutral"
+    },
+    "555487:4": {
+        "17": "neutral"
+    },
+    "11038436:13": {
+        "17": "positive"
+    },
+    "9039246:8": {
+        "17": "positive"
+    },
+    "9039246:9": {
+        "17": "positive"
+    },
+    "9039246:10": {
+        "17": "neutral"
+    },
+    "193743:2": {
+        "17": "positive"
+    },
+    "11216500:3": {
+        "17": "neutral"
+    },
+    "15464665:8": {
+        "17": "neutral"
+    },
+    "15464665:9": {
+        "17": "negative"
+    },
+    "11763244:10": {
+        "17": "neutral"
+    },
+    "11763244:11": {
+        "17": "neutral"
+    },
+    "22176903:16": {
+        "17": "positive"
+    },
+    "22176903:17": {
+        "17": "positive"
+    },
+    "22176903:18": {
+        "17": "positive"
+    },
+    "23248072:12": {
+        "17": "positive"
+    },
+    "23248072:13": {
+        "17": "positive"
+    },
+    "23248072:14": {
+        "17": "positive"
+    },
+    "23248072:15": {
+        "17": "neutral"
+    },
+    "21346060:12": {
+        "17": "positive"
+    },
+    "11281559:7": {
+        "17": "negative"
+    },
+    "22811009:8": {
+        "17": "negative"
+    },
+    "22811009:9": {
+        "17": "neutral"
+    },
+    "21436164:12": {
+        "17": "neutral"
+    },
+    "17089153:11": {
+        "17": "negative"
+    },
+    "8891888:9": {
+        "17": "positive"
+    },
+    "9645412:11": {
+        "17": "neutral"
+    },
+    "25262617:19": {
+        "17": "positive"
+    },
+    "18781288:12": {
+        "17": "positive"
+    },
+    "18781288:13": {
+        "17": "neutral"
+    },
+    "18781288:14": {
+        "17": "neutral"
+    },
+    "21876564:11": {
+        "17": "positive"
+    },
+    "18330698:9": {
+        "17": "positive"
+    },
+    "18330698:10": {
+        "17": "neutral"
+    },
+    "9009543:5": {
+        "17": "positive"
+    },
+    "9009543:6": {
+        "17": "negative"
+    },
+    "22313587:11": {
+        "17": "positive"
+    },
+    "22313587:12": {
+        "17": "positive"
+    },
+    "21896558:13": {
+        "17": "positive"
+    },
+    "21896558:14": {
+        "17": "positive"
+    },
+    "21896558:15": {
+        "17": "positive"
+    },
+    "15711271:12": {
+        "17": "neutral"
+    },
+    "15711271:13": {
+        "17": "neutral"
+    },
+    "15711271:14": {
+        "17": "neutral"
+    },
+    "22897617:12": {
+        "17": "positive"
+    },
+    "22897617:13": {
+        "17": "neutral"
+    },
+    "12456424:13": {
+        "17": "positive"
+    },
+    "12456424:14": {
+        "17": "neutral"
+    },
+    "1952181:6": {
+        "17": "positive"
+    },
+    "1952181:7": {
+        "17": "neutral"
+    },
+    "17995993:13": {
+        "17": "positive"
+    },
+    "17995993:14": {
+        "17": "neutral"
+    },
+    "17995993:15": {
+        "17": "positive"
+    },
+    "1080438:9": {
+        "17": "positive"
+    },
+    "1080438:10": {
+        "17": "neutral"
+    },
+    "7815239:9": {
+        "17": "neutral"
+    },
+    "11071974:13": {
+        "17": "positive"
+    },
+    "11495824:10": {
+        "17": "positive"
+    },
+    "15017205:10": {
+        "17": "positive"
+    },
+    "15017205:11": {
+        "17": "neutral"
+    },
+    "7547823:11": {
+        "17": "negative"
+    },
+    "7547823:12": {
+        "17": "neutral"
+    },
+    "21538537:12": {
+        "17": "neutral"
+    },
+    "21787048:11": {
+        "17": "positive"
+    },
+    "21787048:12": {
+        "17": "neutral"
+    },
+    "21787048:13": {
+        "17": "positive"
+    },
+    "8039950:11": {
+        "17": "positive"
+    },
+    "8039950:12": {
+        "17": "neutral"
+    },
+    "24019196:9": {
+        "17": "positive"
+    },
+    "11575409:5": {
+        "17": "negative"
+    },
+    "9545995:12": {
+        "17": "positive"
+    },
+    "10345967:11": {
+        "17": "positive"
+    },
+    "22128201:7": {
+        "17": "positive"
+    },
+    "23194203:10": {
+        "17": "positive"
+    },
+    "23194203:11": {
+        "17": "neutral"
+    },
+    "1345134:4": {
+        "17": "positive"
+    },
+    "1345134:5": {
+        "17": "neutral"
+    },
+    "23222083:10": {
+        "17": "neutral"
+    },
+    "11271867:8": {
+        "17": "positive"
+    },
+    "11271867:9": {
+        "17": "neutral"
+    },
+    "16463664:8": {
+        "17": "positive"
+    },
+    "23090004:11": {
+        "17": "negative"
+    },
+    "23090004:12": {
+        "17": "neutral"
+    },
+    "8956395:8": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "16507375:17": {
+        "17": "positive",
+        "19": "negative",
+        "11": "positive",
+        "18": "positive",
+        "15": "negative"
+    },
+    "8853769:8": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "8853769:9": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "positive"
+    },
+    "20595412:10": {
+        "17": "neutral",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "17628683:12": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "15238279:6": {
+        "17": "positive",
+        "19": "negative",
+        "11": "neutral",
+        "18": "negative",
+        "15": "negative"
+    },
+    "15731595:10": {
+        "17": "negative",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "negative"
+    },
+    "19268506:12": {
+        "17": "neutral",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "19268506:13": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "positive"
+    },
+    "19268506:14": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "19268506:15": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "20737113:9": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "20737113:10": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "22127691:8": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "22127691:9": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "10710871:11": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "22575768:7": {
+        "17": "positive",
+        "19": "negative",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "negative"
+    },
+    "22575768:8": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "22575768:9": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "9857278:9": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "negative"
+    },
+    "9857278:10": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "9857278:11": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "20456060:11": {
+        "17": "neutral",
+        "19": "negative",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "negative"
+    },
+    "19254906:13": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "8790025:10": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "8790025:11": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "16357350:13": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral",
+        "18": "positive",
+        "15": "positive"
+    },
+    "15206665:11": {
+        "17": "negative",
+        "19": "positive",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "positive"
+    },
+    "8699981:3": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "18434268:11": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "9409295:14": {
+        "17": "positive",
+        "19": "negative",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "9409295:15": {
+        "17": "neutral",
+        "19": "negative",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "3408637:13": {
+        "17": "positive",
+        "19": "negative",
+        "11": "positive",
+        "18": "negative"
+    },
+    "3408637:14": {
+        "17": "neutral",
+        "19": "negative",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "negative"
+    },
+    "3408637:15": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "18974537:9": {
+        "17": "neutral",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "11229465:8": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "14594788:12": {
+        "17": "positive",
+        "19": "negative",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "positive"
+    },
+    "11791088:11": {
+        "17": "negative",
+        "19": "negative",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "negative"
+    },
+    "11791088:12": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "23540073:8": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "23540073:9": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "1480310:10": {
+        "18": "positive",
+        "11": "positive",
+        "19": "positive",
+        "15": "neutral"
+    },
+    "7477169:12": {
+        "18": "positive",
+        "11": "positive"
+    },
+    "7852614:17": {
+        "18": "positive",
+        "11": "positive"
+    },
+    "23025390:6": {
+        "18": "positive",
+        "11": "positive"
+    },
+    "15690267:10": {
+        "18": "positive",
+        "11": "neutral"
+    },
+    "15690267:11": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "25424409:4": {
+        "18": "positive",
+        "11": "positive"
+    },
+    "23486306:13": {
+        "18": "positive",
+        "11": "positive"
+    },
+    "23486306:14": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "23486306:15": {
+        "18": "neutral",
+        "11": "positive"
+    },
+    "25299536:8": {
+        "18": "positive",
+        "11": "positive"
+    },
+    "19819118:9": {
+        "18": "positive",
+        "11": "positive"
+    },
+    "19819118:10": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "9066031:9": {
+        "18": "neutral"
+    },
+    "9066031:10": {
+        "18": "neutral",
+        "11": "positive"
+    },
+    "7047863:8": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "2137666:7": {
+        "18": "positive",
+        "11": "positive"
+    },
+    "2137666:8": {
+        "18": "positive",
+        "11": "neutral"
+    },
+    "12701940:8": {
+        "18": "neutral",
+        "11": "positive"
+    },
+    "2065536:5": {
+        "18": "positive",
+        "11": "positive"
+    },
+    "11121918:11": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "11121918:12": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "11121918:13": {
+        "18": "neutral",
+        "11": "positive"
+    },
+    "9150621:8": {
+        "18": "positive",
+        "11": "positive"
+    },
+    "15182379:13": {
+        "18": "neutral"
+    },
+    "15182379:14": {
+        "18": "neutral"
+    },
+    "15182379:15": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "15321935:13": {
+        "18": "neutral",
+        "11": "negative"
+    },
+    "15321935:14": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "9115004:10": {
+        "18": "neutral",
+        "11": "positive"
+    },
+    "3932215:7": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "3932215:8": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "3932215:9": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "15227556:7": {
+        "18": "positive",
+        "11": "positive"
+    },
+    "17300595:9": {
+        "18": "positive",
+        "11": "neutral"
+    },
+    "17300595:10": {
+        "18": "positive",
+        "11": "positive"
+    },
+    "21031585:7": {
+        "18": "positive",
+        "11": "neutral"
+    },
+    "2699072:10": {
+        "18": "positive",
+        "11": "neutral"
+    },
+    "6206318:11": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "6206318:12": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "16549837:10": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "19077853:8": {
+        "18": "positive",
+        "11": "positive"
+    },
+    "19588640:9": {
+        "18": "positive"
+    },
+    "19588640:10": {
+        "18": "positive"
+    },
+    "19588640:11": {
+        "18": "positive",
+        "11": "neutral"
+    },
+    "2523646:5": {
+        "18": "positive"
+    },
+    "2523646:6": {
+        "18": "neutral"
+    },
+    "2523646:7": {
+        "18": "positive",
+        "11": "neutral"
+    },
+    "4025792:21": {
+        "18": "positive",
+        "11": "positive"
+    },
+    "15204043:4": {
+        "18": "positive"
+    },
+    "15204043:5": {
+        "18": "neutral"
+    },
+    "15204043:6": {
+        "18": "positive",
+        "11": "positive"
+    },
+    "21482863:11": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "21482863:12": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "21482863:13": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "22028938:7": {
+        "18": "positive",
+        "11": "neutral"
+    },
+    "22028938:8": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "21771256:8": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "10777036:10": {
+        "18": "negative",
+        "11": "negative"
+    },
+    "10777036:11": {
+        "18": "negative",
+        "11": "negative"
+    },
+    "19098847:13": {
+        "18": "negative",
+        "11": "negative"
+    },
+    "19098847:14": {
+        "18": "positive",
+        "11": "neutral"
+    },
+    "19098847:15": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "14564460:10": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "20385495:5": {
+        "18": "positive",
+        "11": "positive"
+    },
+    "23085128:10": {
+        "18": "positive",
+        "11": "neutral"
+    },
+    "10626860:12": {
+        "18": "positive",
+        "11": "positive"
+    },
+    "10440432:15": {
+        "18": "neutral",
+        "11": "positive"
+    },
+    "17388924:19": {
+        "18": "positive",
+        "11": "positive"
+    },
+    "23084274:9": {
+        "18": "neutral",
+        "11": "positive"
+    },
+    "19048594:11": {
+        "18": "positive"
+    },
+    "19048594:12": {
+        "18": "neutral"
+    },
+    "19048594:13": {
+        "18": "neutral",
+        "11": "neutral"
+    },
+    "9572539:10": {
+        "17": "positive",
+        "19": "neutral",
+        "11": "positive",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "9572539:11": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral",
+        "18": "positive",
+        "15": "positive"
+    },
+    "12642046:14": {
+        "17": "negative",
+        "19": "negative",
+        "11": "neutral",
+        "18": "negative",
+        "15": "negative"
+    },
+    "16297506:9": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "16297506:10": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "22384983:7": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "8786520:4": {
+        "17": "negative",
+        "19": "negative",
+        "18": "neutral"
+    },
+    "8786520:5": {
+        "17": "negative",
+        "19": "negative",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "negative"
+    },
+    "22834767:15": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "1761810:9": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "positive"
+    },
+    "1761810:10": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "22466329:16": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral",
+        "18": "positive",
+        "15": "positive"
+    },
+    "22466329:17": {
+        "17": "neutral",
+        "19": "positive",
+        "11": "neutral",
+        "18": "positive",
+        "15": "neutral"
+    },
+    "17003815:7": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "17003815:8": {
+        "17": "neutral",
+        "19": "positive",
+        "11": "positive",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "18818443:6": {
+        "17": "negative",
+        "19": "negative",
+        "11": "negative",
+        "18": "neutral",
+        "15": "negative"
+    },
+    "9389260:8": {
+        "17": "negative",
+        "19": "negative",
+        "11": "negative",
+        "18": "negative",
+        "15": "negative"
+    },
+    "7653770:7": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "8297739:9": {
+        "11": "positive"
+    },
+    "8297739:10": {
+        "11": "positive"
+    },
+    "7848623:12": {
+        "11": "neutral"
+    },
+    "11174337:9": {
+        "11": "neutral"
+    },
+    "11174337:10": {
+        "11": "neutral"
+    },
+    "378316:3": {
+        "11": "neutral"
+    },
+    "16310388:9": {
+        "11": "positive"
+    },
+    "20015903:12": {
+        "11": "negative"
+    },
+    "20015903:13": {
+        "11": "negative"
+    },
+    "19348303:6": {
+        "11": "neutral"
+    },
+    "369472:8": {
+        "11": "neutral"
+    },
+    "18975365:10": {
+        "11": "negative"
+    },
+    "22581822:8": {
+        "11": "positive"
+    },
+    "16187871:7": {
+        "11": "positive"
+    },
+    "20471807:10": {
+        "11": "neutral"
+    },
+    "9505799:8": {
+        "17": "positive",
+        "19": "negative",
+        "11": "neutral",
+        "18": "positive",
+        "15": "negative"
+    },
+    "9505799:9": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "23249415:5": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "10363683:17": {
+        "17": "negative",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "10363683:18": {
+        "17": "neutral",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "1443746:12": {
+        "17": "positive",
+        "19": "neutral",
+        "11": "positive",
+        "18": "neutral",
+        "15": "positive"
+    },
+    "8279372:11": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral",
+        "18": "positive",
+        "15": "neutral"
+    },
+    "8279372:12": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "11453887:9": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "negative"
+    },
+    "11453887:10": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "negative"
+    },
+    "15042308:9": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "18259856:8": {
+        "17": "positive",
+        "19": "negative",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "negative"
+    },
+    "18259856:9": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "3597737:4": {
+        "17": "neutral",
+        "19": "neutral"
+    },
+    "3597737:5": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "23702987:10": {
+        "17": "neutral",
+        "19": "positive",
+        "11": "positive",
+        "18": "neutral",
+        "15": "negative"
+    },
+    "1471663:5": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral",
+        "18": "negative",
+        "15": "positive"
+    },
+    "1471663:6": {
+        "17": "positive",
+        "19": "neutral",
+        "11": "neutral",
+        "18": "neutral",
+        "15": "positive"
+    },
+    "8201388:6": {
+        "17": "positive"
+    },
+    "8201388:7": {
+        "17": "positive"
+    },
+    "21062996:13": {
+        "17": "neutral"
+    },
+    "21062996:14": {
+        "17": "positive"
+    },
+    "21057255:7": {
+        "17": "positive"
+    },
+    "368333:3": {
+        "17": "positive"
+    },
+    "368333:4": {
+        "17": "positive"
+    },
+    "368333:5": {
+        "17": "positive"
+    },
+    "10217552:4": {
+        "17": "positive"
+    },
+    "10217552:5": {
+        "17": "neutral"
+    },
+    "19729128:7": {
+        "17": "positive"
+    },
+    "21106921:8": {
+        "17": "positive"
+    },
+    "12809959:19": {
+        "17": "positive"
+    },
+    "8738052:7": {
+        "17": "positive"
+    },
+    "8738052:8": {
+        "17": "positive"
+    },
+    "8738052:9": {
+        "17": "neutral"
+    },
+    "8738052:10": {
+        "17": "neutral"
+    },
+    "21206418:11": {
+        "17": "positive"
+    },
+    "21206418:12": {
+        "17": "positive"
+    },
+    "21108390:7": {
+        "17": "negative"
+    },
+    "16362397:12": {
+        "17": "positive"
+    },
+    "16362397:13": {
+        "17": "neutral"
+    },
+    "24845395:10": {
+        "17": "positive"
+    },
+    "24845395:11": {
+        "17": "positive"
+    },
+    "24845395:12": {
+        "17": "neutral"
+    },
+    "17110814:10": {
+        "17": "positive"
+    },
+    "23725526:7": {
+        "17": "positive"
+    },
+    "2060527:7": {
+        "17": "neutral"
+    },
+    "16641126:8": {
+        "17": "positive"
+    },
+    "24831989:12": {
+        "17": "positive"
+    },
+    "24831989:13": {
+        "17": "neutral"
+    },
+    "11232987:11": {
+        "17": "positive"
+    },
+    "7821128:20": {
+        "17": "positive"
+    },
+    "7821128:21": {
+        "17": "positive"
+    },
+    "7821128:22": {
+        "17": "positive"
+    },
+    "9807847:15": {
+        "17": "positive"
+    },
+    "18283068:10": {
+        "17": "negative"
+    },
+    "18283068:11": {
+        "17": "neutral"
+    },
+    "18283068:12": {
+        "17": "negative"
+    },
+    "23852658:10": {
+        "17": "positive"
+    },
+    "18172412:9": {
+        "17": "positive"
+    },
+    "18172412:10": {
+        "17": "neutral"
+    },
+    "7893026:11": {
+        "17": "positive"
+    },
+    "15615737:11": {
+        "19": "positive"
+    },
+    "15615737:12": {
+        "19": "neutral"
+    },
+    "16238909:11": {
+        "17": "neutral"
+    },
+    "16238909:12": {
+        "17": "neutral"
+    },
+    "16238909:13": {
+        "17": "positive"
+    },
+    "19539437:19": {
+        "19": "neutral"
+    },
+    "19539437:20": {
+        "19": "neutral"
+    },
+    "24577230:6": {
+        "19": "positive"
+    },
+    "12728159:13": {
+        "17": "positive"
+    },
+    "12728159:14": {
+        "17": "neutral"
+    },
+    "12728159:15": {
+        "17": "positive"
+    },
+    "12848286:12": {
+        "17": "positive"
+    },
+    "12848286:13": {
+        "17": "neutral"
+    },
+    "23180507:11": {
+        "19": "positive"
+    },
+    "14723254:8": {
+        "19": "positive"
+    },
+    "14723254:9": {
+        "19": "positive"
+    },
+    "16254756:7": {
+        "19": "positive"
+    },
+    "9347245:10": {
+        "17": "positive"
+    },
+    "9347245:11": {
+        "17": "positive"
+    },
+    "9506009:5": {
+        "17": "positive"
+    },
+    "11773815:10": {
+        "17": "positive"
+    },
+    "11773815:11": {
+        "17": "positive"
+    },
+    "11865828:17": {
+        "17": "positive"
+    },
+    "8557971:8": {
+        "17": "neutral"
+    },
+    "8557971:9": {
+        "17": "positive"
+    },
+    "12610046:16": {
+        "17": "positive"
+    },
+    "18376092:10": {
+        "19": "positive"
+    },
+    "18164818:7": {
+        "17": "neutral"
+    },
+    "18164818:8": {
+        "17": "positive"
+    },
+    "14563573:9": {
+        "19": "negative"
+    },
+    "14563573:10": {
+        "19": "neutral"
+    },
+    "14563573:11": {
+        "19": "negative"
+    },
+    "18477268:6": {
+        "19": "negative"
+    },
+    "19561152:11": {
+        "19": "negative"
+    },
+    "19561152:12": {
+        "19": "neutral"
+    },
+    "10707135:7": {
+        "17": "negative"
+    },
+    "6727693:11": {
+        "19": "neutral"
+    },
+    "7597774:10": {
+        "17": "positive"
+    },
+    "7597774:11": {
+        "17": "neutral"
+    },
+    "21540876:11": {
+        "19": "negative"
+    },
+    "21540876:12": {
+        "19": "neutral"
+    },
+    "9853540:9": {
+        "19": "positive"
+    },
+    "15201248:10": {
+        "17": "positive"
+    },
+    "15201248:11": {
+        "17": "neutral"
+    },
+    "20131302:11": {
+        "17": "neutral"
+    },
+    "20131302:12": {
+        "17": "neutral"
+    },
+    "20131302:13": {
+        "17": "neutral"
+    },
+    "1485475:13": {
+        "19": "positive"
+    },
+    "1485475:14": {
+        "19": "neutral"
+    },
+    "19940856:7": {
+        "17": "neutral"
+    },
+    "19940856:8": {
+        "17": "neutral"
+    },
+    "8824656:24": {
+        "17": "neutral"
+    },
+    "18843868:11": {
+        "17": "positive"
+    },
+    "9585823:7": {
+        "17": "positive"
+    },
+    "16575494:10": {
+        "19": "positive"
+    },
+    "23510529:9": {
+        "17": "positive"
+    },
+    "21878455:5": {
+        "17": "positive"
+    },
+    "15121491:11": {
+        "19": "neutral"
+    },
+    "15585061:8": {
+        "19": "negative"
+    },
+    "15585061:9": {
+        "19": "negative"
+    },
+    "10353431:8": {
+        "11": "positive"
+    },
+    "788759:5": {
+        "19": "positive"
+    },
+    "2194992:7": {
+        "11": "neutral"
+    },
+    "17121522:14": {
+        "19": "positive"
+    },
+    "24996592:10": {
+        "17": "positive"
+    },
+    "24996592:11": {
+        "17": "neutral"
+    },
+    "19776222:11": {
+        "11": "neutral"
+    },
+    "19776222:12": {
+        "11": "neutral"
+    },
+    "20537762:11": {
+        "17": "neutral"
+    },
+    "20537762:12": {
+        "17": "neutral"
+    },
+    "7595267:4": {
+        "17": "neutral"
+    },
+    "7595267:5": {
+        "17": "neutral"
+    },
+    "23945719:9": {
+        "11": "neutral"
+    },
+    "23945719:10": {
+        "11": "neutral"
+    },
+    "9228372:10": {
+        "11": "positive"
+    },
+    "9228372:11": {
+        "11": "neutral"
+    },
+    "8964406:8": {
+        "11": "positive"
+    },
+    "9052359:2": {
+        "11": "positive"
+    },
+    "10463785:6": {
+        "11": "positive"
+    },
+    "23218575:10": {
+        "17": "positive"
+    },
+    "16268973:11": {
+        "17": "positive"
+    },
+    "16268973:12": {
+        "17": "neutral"
+    },
+    "9640149:9": {
+        "11": "neutral"
+    },
+    "15020281:5": {
+        "11": "positive"
+    },
+    "24589124:15": {
+        "11": "neutral"
+    },
+    "18059581:10": {
+        "11": "neutral"
+    },
+    "10708161:17": {
+        "11": "positive"
+    },
+    "18597667:3": {
+        "11": "neutral"
+    },
+    "6343656:6": {
+        "11": "neutral"
+    },
+    "19179549:11": {
+        "11": "neutral"
+    },
+    "11199932:13": {
+        "19": "positive"
+    },
+    "16846322:7": {
+        "19": "positive"
+    },
+    "25179854:6": {
+        "19": "positive"
+    },
+    "7955817:6": {
+        "11": "positive"
+    },
+    "8848950:7": {
+        "11": "neutral"
+    },
+    "9049576:6": {
+        "19": "positive"
+    },
+    "10526806:13": {
+        "11": "positive"
+    },
+    "19852710:13": {
+        "11": "positive"
+    },
+    "7179201:12": {
+        "11": "positive"
+    },
+    "7179201:13": {
+        "11": "positive"
+    },
+    "7179201:14": {
+        "11": "neutral"
+    },
+    "24952858:9": {
+        "11": "positive"
+    },
+    "1681355:9": {
+        "11": "neutral"
+    },
+    "8309674:5": {
+        "11": "neutral"
+    },
+    "19703826:13": {
+        "19": "negative"
+    },
+    "19703826:14": {
+        "19": "positive"
+    },
+    "10472596:12": {
+        "19": "positive"
+    },
+    "16775568:15": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "neutral"
+    },
+    "23649050:11": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "23649050:12": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "positive",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "790553:10": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "16761149:10": {
+        "17": "negative",
+        "11": "neutral",
+        "19": "neutral",
+        "18": "negative",
+        "15": "negative"
+    },
+    "11320384:10": {
+        "17": "positive",
+        "11": "neutral",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "11320384:11": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "positive",
+        "18": "positive",
+        "15": "neutral"
+    },
+    "17714557:10": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "18800454:7": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "18800454:8": {
+        "17": "neutral",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "20055772:7": {
+        "19": "neutral"
+    },
+    "20055772:8": {
+        "19": "neutral"
+    },
+    "23225450:18": {
+        "17": "neutral",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "23225450:19": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "positive",
+        "18": "positive",
+        "15": "neutral"
+    },
+    "21982529:24": {
+        "19": "positive"
+    },
+    "21982529:25": {
+        "19": "neutral"
+    },
+    "21982529:26": {
+        "19": "positive"
+    },
+    "18089849:8": {
+        "11": "neutral"
+    },
+    "1648597:9": {
+        "19": "positive"
+    },
+    "1648597:10": {
+        "19": "neutral"
+    },
+    "8217066:6": {
+        "11": "neutral"
+    },
+    "21850690:8": {
+        "11": "neutral"
+    },
+    "16026361:13": {
+        "11": "neutral"
+    },
+    "16026361:14": {
+        "11": "neutral"
+    },
+    "24328607:7": {
+        "11": "neutral"
+    },
+    "11755281:11": {
+        "11": "neutral"
+    },
+    "11755281:12": {
+        "11": "positive"
+    },
+    "16624683:13": {
+        "11": "negative"
+    },
+    "23192756:10": {
+        "11": "negative"
+    },
+    "23192756:11": {
+        "11": "neutral"
+    },
+    "23192756:12": {
+        "11": "neutral"
+    },
+    "23192756:13": {
+        "11": "neutral"
+    },
+    "19045975:6": {
+        "19": "neutral"
+    },
+    "2326519:7": {
+        "19": "neutral"
+    },
+    "2326519:8": {
+        "19": "neutral"
+    },
+    "19015204:10": {
+        "19": "positive"
+    },
+    "10555898:8": {
+        "11": "neutral"
+    },
+    "10555898:9": {
+        "11": "neutral"
+    },
+    "16360564:10": {
+        "19": "positive"
+    },
+    "21787045:7": {
+        "19": "positive"
+    },
+    "21787045:8": {
+        "19": "neutral"
+    },
+    "20576091:10": {
+        "19": "positive"
+    },
+    "19846545:8": {
+        "19": "positive"
+    },
+    "19846545:9": {
+        "19": "neutral"
+    },
+    "12139908:13": {
+        "19": "positive"
+    },
+    "12139908:14": {
+        "19": "neutral"
+    },
+    "16888455:11": {
+        "19": "neutral"
+    },
+    "16888455:12": {
+        "19": "neutral"
+    },
+    "1337833:7": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "positive",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "7927956:6": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "18": "positive",
+        "15": "positive"
+    },
+    "1829465:7": {
+        "17": "positive",
+        "11": "negative",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "19429875:10": {
+        "19": "positive"
+    },
+    "19429875:11": {
+        "19": "positive"
+    },
+    "8996142:14": {
+        "11": "neutral"
+    },
+    "8996142:15": {
+        "11": "neutral"
+    },
+    "8996142:16": {
+        "11": "positive"
+    },
+    "22736126:9": {
+        "19": "positive"
+    },
+    "15129595:11": {
+        "17": "positive",
+        "11": "positive",
+        "19": "negative",
+        "18": "negative",
+        "15": "positive"
+    },
+    "14686964:9": {
+        "19": "negative"
+    },
+    "19783324:11": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "10720118:7": {
+        "17": "negative",
+        "11": "neutral",
+        "19": "negative",
+        "18": "negative",
+        "15": "neutral"
+    },
+    "10720118:8": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "25335963:12": {
+        "11": "neutral"
+    },
+    "18467147:13": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "1960557:9": {
+        "11": "negative"
+    },
+    "12495602:14": {
+        "11": "positive"
+    },
+    "25468506:14": {
+        "11": "neutral"
+    },
+    "15197202:8": {
+        "19": "positive"
+    },
+    "9641731:14": {
+        "19": "positive"
+    },
+    "9641731:15": {
+        "19": "neutral"
+    },
+    "23244539:10": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "21794155:11": {
+        "17": "positive",
+        "11": "neutral",
+        "19": "positive",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "19747435:11": {
+        "19": "positive"
+    },
+    "3178249:7": {
+        "19": "negative"
+    },
+    "17363746:10": {
+        "19": "positive"
+    },
+    "17363746:11": {
+        "19": "positive"
+    },
+    "17363746:12": {
+        "19": "neutral"
+    },
+    "1449046:8": {
+        "19": "negative"
+    },
+    "1449046:9": {
+        "19": "negative"
+    },
+    "8377981:7": {
+        "19": "negative"
+    },
+    "14962967:10": {
+        "19": "positive"
+    },
+    "11794455:10": {
+        "19": "positive"
+    },
+    "11794455:11": {
+        "19": "positive"
+    },
+    "11794455:12": {
+        "19": "positive"
+    },
+    "9648050:7": {
+        "19": "negative"
+    },
+    "2189077:7": {
+        "19": "positive"
+    },
+    "8058226:9": {
+        "19": "positive"
+    },
+    "8058226:10": {
+        "19": "positive"
+    },
+    "764929:6": {
+        "19": "positive"
+    },
+    "764929:7": {
+        "19": "positive"
+    },
+    "18360062:13": {
+        "19": "negative"
+    },
+    "9247979:11": {
+        "19": "neutral"
+    },
+    "22360366:10": {
+        "19": "positive"
+    },
+    "10392347:8": {
+        "19": "positive"
+    },
+    "10392347:9": {
+        "19": "neutral"
+    },
+    "10392347:10": {
+        "19": "neutral"
+    },
+    "25559495:13": {
+        "19": "negative"
+    },
+    "25559495:14": {
+        "19": "neutral"
+    },
+    "16543688:10": {
+        "19": "positive"
+    },
+    "16284568:11": {
+        "19": "positive"
+    },
+    "16284568:12": {
+        "19": "negative"
+    },
+    "24705568:12": {
+        "19": "positive"
+    },
+    "10067809:10": {
+        "19": "positive"
+    },
+    "23223405:11": {
+        "19": "positive"
+    },
+    "23223405:12": {
+        "19": "positive"
+    },
+    "17724715:6": {
+        "19": "neutral"
+    },
+    "3079695:4": {
+        "19": "negative"
+    },
+    "1425861:7": {
+        "19": "positive"
+    },
+    "12838196:10": {
+        "19": "positive"
+    },
+    "24835473:8": {
+        "19": "neutral"
+    },
+    "12381039:7": {
+        "19": "positive"
+    },
+    "12381039:8": {
+        "19": "neutral"
+    },
+    "19096711:11": {
+        "19": "positive"
+    },
+    "21699627:10": {
+        "19": "positive"
+    },
+    "10197889:6": {
+        "19": "negative"
+    },
+    "19941671:10": {
+        "19": "positive"
+    },
+    "19941671:11": {
+        "19": "positive"
+    },
+    "19941671:12": {
+        "19": "positive"
+    },
+    "7850818:7": {
+        "19": "positive"
+    },
+    "17670916:7": {
+        "19": "negative"
+    },
+    "17670916:8": {
+        "19": "negative"
+    },
+    "19067776:9": {
+        "19": "positive"
+    },
+    "15164249:14": {
+        "19": "positive"
+    },
+    "10596705:8": {
+        "19": "negative"
+    },
+    "10596705:9": {
+        "19": "neutral"
+    },
+    "17233236:9": {
+        "19": "positive"
+    },
+    "17233236:10": {
+        "19": "positive"
+    },
+    "21966999:11": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "6416476:7": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "6416476:8": {
+        "11": "negative",
+        "18": "negative"
+    },
+    "24711067:10": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "24985000:11": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "24985000:12": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "18221925:8": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "11435839:10": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "21074355:5": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "3408637:11": {
+        "11": "neutral"
+    },
+    "3408637:12": {
+        "11": "neutral"
+    },
+    "10573634:9": {
+        "11": "positive"
+    },
+    "10573634:10": {
+        "11": "neutral"
+    },
+    "9850268:16": {
+        "11": "positive"
+    },
+    "9850268:17": {
+        "11": "neutral"
+    },
+    "9850268:18": {
+        "11": "positive"
+    },
+    "15385009:10": {
+        "11": "negative"
+    },
+    "15385009:11": {
+        "11": "neutral"
+    },
+    "10964145:10": {
+        "11": "positive"
+    },
+    "23902482:9": {
+        "11": "positive"
+    },
+    "23902482:10": {
+        "11": "neutral"
+    },
+    "23902482:11": {
+        "11": "neutral"
+    },
+    "8341859:11": {
+        "11": "positive"
+    },
+    "12069361:10": {
+        "11": "positive"
+    },
+    "84260:2": {
+        "11": "positive"
+    },
+    "7529520:14": {
+        "11": "negative"
+    },
+    "7529520:15": {
+        "11": "neutral"
+    },
+    "7529520:16": {
+        "11": "negative"
+    },
+    "18506317:9": {
+        "11": "neutral"
+    },
+    "22131601:12": {
+        "11": "neutral"
+    },
+    "3977491:6": {
+        "11": "positive"
+    },
+    "23230745:12": {
+        "11": "neutral"
+    },
+    "23230745:13": {
+        "11": "neutral"
+    },
+    "20153684:15": {
+        "11": "positive"
+    },
+    "20153684:16": {
+        "11": "neutral"
+    },
+    "20153684:17": {
+        "11": "positive"
+    },
+    "21414998:5": {
+        "11": "positive"
+    },
+    "21414998:6": {
+        "11": "neutral"
+    },
+    "19960983:7": {
+        "11": "positive"
+    },
+    "10821987:5": {
+        "11": "positive"
+    },
+    "24553557:11": {
+        "11": "neutral"
+    },
+    "24553557:12": {
+        "11": "positive"
+    },
+    "23711165:11": {
+        "11": "neutral"
+    },
+    "23711165:12": {
+        "11": "neutral"
+    },
+    "22314891:14": {
+        "11": "positive"
+    },
+    "9081851:9": {
+        "11": "neutral"
+    },
+    "24773119:9": {
+        "11": "positive"
+    },
+    "8232944:9": {
+        "11": "positive"
+    },
+    "24635006:6": {
+        "11": "neutral"
+    },
+    "18780127:11": {
+        "11": "neutral"
+    },
+    "18780127:12": {
+        "11": "neutral"
+    },
+    "18780127:13": {
+        "11": "neutral"
+    },
+    "18780127:14": {
+        "11": "neutral"
+    },
+    "18780127:15": {
+        "11": "positive"
+    },
+    "18780127:16": {
+        "11": "neutral"
+    },
+    "18780127:17": {
+        "11": "neutral"
+    },
+    "8655160:8": {
+        "11": "positive"
+    },
+    "8655160:9": {
+        "11": "neutral"
+    },
+    "8655160:10": {
+        "11": "positive"
+    },
+    "8043714:5": {
+        "11": "neutral"
+    },
+    "8043714:6": {
+        "11": "neutral"
+    },
+    "9653476:10": {
+        "11": "neutral"
+    },
+    "18428198:11": {
+        "11": "negative"
+    },
+    "21571149:17": {
+        "11": "neutral"
+    },
+    "12204499:11": {
+        "11": "positive"
+    },
+    "25350669:12": {
+        "11": "positive"
+    },
+    "25350669:13": {
+        "11": "neutral"
+    },
+    "25350669:14": {
+        "11": "positive"
+    },
+    "16918891:9": {
+        "11": "neutral"
+    },
+    "16918891:10": {
+        "11": "neutral"
+    },
+    "21642511:14": {
+        "11": "positive"
+    },
+    "21642511:15": {
+        "11": "positive"
+    },
+    "21642511:16": {
+        "11": "neutral"
+    },
+    "3174726:5": {
+        "11": "positive"
+    },
+    "3174726:6": {
+        "11": "positive"
+    },
+    "3518407:8": {
+        "11": "positive"
+    },
+    "3518407:9": {
+        "11": "neutral"
+    },
+    "25362103:7": {
+        "11": "neutral"
+    },
+    "25362103:8": {
+        "11": "neutral"
+    },
+    "10408485:11": {
+        "11": "positive"
+    },
+    "10408485:12": {
+        "11": "neutral"
+    },
+    "15854087:8": {
+        "11": "neutral"
+    },
+    "15854087:9": {
+        "11": "positive"
+    },
+    "16508257:10": {
+        "11": "negative"
+    },
+    "6347117:7": {
+        "11": "positive"
+    },
+    "6347117:8": {
+        "11": "neutral"
+    },
+    "6347117:9": {
+        "11": "neutral"
+    },
+    "18397984:11": {
+        "11": "positive"
+    },
+    "10375338:15": {
+        "11": "positive"
+    },
+    "10375338:16": {
+        "11": "positive"
+    },
+    "21244493:14": {
+        "11": "positive"
+    },
+    "10484858:7": {
+        "11": "neutral"
+    },
+    "25062420:11": {
+        "11": "positive"
+    },
+    "24662619:11": {
+        "11": "positive"
+    },
+    "24662619:12": {
+        "11": "neutral"
+    },
+    "25130918:9": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "10489822:11": {
+        "11": "positive"
+    },
+    "10489822:12": {
+        "11": "neutral"
+    },
+    "9562008:11": {
+        "11": "positive"
+    },
+    "19542207:11": {
+        "11": "positive"
+    },
+    "10736124:10": {
+        "17": "negative",
+        "11": "negative",
+        "19": "negative",
+        "18": "negative",
+        "15": "negative"
+    },
+    "16100298:6": {
+        "17": "negative",
+        "11": "negative",
+        "19": "negative",
+        "18": "negative",
+        "15": "negative"
+    },
+    "15526587:7": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "18": "negative",
+        "15": "neutral"
+    },
+    "21516735:8": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "21322021:8": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "8636370:10": {
+        "17": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "8636370:11": {
+        "17": "neutral",
+        "11": "positive",
+        "19": "positive",
+        "18": "neutral",
+        "15": "positive"
+    },
+    "8636370:12": {
+        "17": "neutral",
+        "11": "positive",
+        "19": "positive",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "15224273:15": {
+        "17": "negative",
+        "11": "negative",
+        "19": "negative",
+        "18": "positive",
+        "15": "negative"
+    },
+    "23295794:11": {
+        "17": "negative",
+        "11": "negative",
+        "19": "negative",
+        "18": "negative",
+        "15": "negative"
+    },
+    "22343090:9": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "8200949:13": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "neutral",
+        "15": "positive"
+    },
+    "15701190:9": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "24723218:8": {
+        "17": "negative",
+        "11": "neutral",
+        "19": "negative",
+        "18": "negative",
+        "15": "negative"
+    },
+    "24723218:9": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "negative",
+        "18": "negative",
+        "15": "neutral"
+    },
+    "10077963:10": {
+        "17": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "10077963:11": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "18": "negative",
+        "15": "neutral"
+    },
+    "9570244:11": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "9570244:12": {
+        "17": "positive",
+        "11": "neutral",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "14617231:11": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "14617231:12": {
+        "17": "positive",
+        "11": "neutral",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "14617231:13": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "7234386:6": {
+        "17": "neutral"
+    },
+    "7234386:7": {
+        "17": "positive",
+        "11": "negative",
+        "19": "negative",
+        "18": "negative",
+        "15": "negative"
+    },
+    "1748134:7": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "positive",
+        "18": "positive",
+        "15": "neutral"
+    },
+    "22972300:5": {
+        "17": "positive",
+        "15": "positive"
+    },
+    "22972300:6": {
+        "17": "positive",
+        "11": "neutral",
+        "19": "positive",
+        "18": "positive",
+        "15": "neutral"
+    },
+    "8129455:11": {
+        "17": "negative",
+        "11": "neutral",
+        "19": "negative",
+        "18": "negative",
+        "15": "negative"
+    },
+    "8129455:12": {
+        "17": "neutral",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "neutral"
+    },
+    "8129455:13": {
+        "17": "neutral",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "22492814:10": {
+        "17": "neutral",
+        "19": "neutral",
+        "18": "positive",
+        "15": "positive"
+    },
+    "22492814:11": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "18": "positive",
+        "15": "positive"
+    },
+    "8626364:9": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "8626364:10": {
+        "17": "positive",
+        "11": "negative",
+        "19": "negative",
+        "18": "neutral",
+        "15": "negative"
+    },
+    "8626364:11": {
+        "17": "positive",
+        "11": "neutral",
+        "19": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "24070573:11": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "24070573:12": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "1782307:8": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "11309010:11": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "11309010:12": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "2007937:12": {
+        "17": "negative",
+        "11": "neutral",
+        "19": "neutral",
+        "18": "negative",
+        "15": "negative"
+    },
+    "2007937:13": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "17078155:6": {
+        "17": "negative",
+        "11": "neutral",
+        "19": "neutral",
+        "18": "negative",
+        "15": "negative"
+    },
+    "17078155:7": {
+        "17": "neutral",
+        "11": "positive",
+        "19": "neutral",
+        "18": "positive",
+        "15": "neutral"
+    },
+    "21519580:8": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "21519580:9": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "negative",
+        "18": "negative",
+        "15": "negative"
+    },
+    "21519580:10": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "18095518:9": {
+        "17": "negative",
+        "11": "negative",
+        "19": "negative",
+        "18": "negative",
+        "15": "negative"
+    },
+    "18622280:8": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "18622280:9": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "neutral"
+    },
+    "21894688:10": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "21894688:11": {
+        "17": "neutral",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "15486518:15": {
+        "17": "positive",
+        "11": "positive",
+        "19": "positive",
+        "18": "positive",
+        "15": "positive"
+    },
+    "24918555:9": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "neutral",
+        "18": "neutral",
+        "15": "neutral"
+    },
+    "24918555:12": {
+        "17": "neutral",
+        "11": "neutral",
+        "19": "positive",
+        "18": "neutral",
+        "15": "positive"
+    },
+    "8599319:9": {
+        "17": "negative"
+    },
+    "8599319:10": {
+        "17": "neutral"
+    },
+    "22027579:13": {
+        "17": "positive"
+    },
+    "22027579:14": {
+        "17": "neutral"
+    },
+    "2203467:5": {
+        "17": "neutral"
+    },
+    "21924552:10": {
+        "17": "positive"
+    },
+    "18294739:11": {
+        "17": "negative"
+    },
+    "18294739:12": {
+        "17": "neutral"
+    },
+    "8599745:9": {
+        "17": "positive"
+    },
+    "11789188:13": {
+        "17": "neutral"
+    },
+    "11789188:14": {
+        "17": "positive"
+    },
+    "8426211:9": {
+        "17": "positive"
+    },
+    "20819541:8": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "6106611:5": {
+        "17": "positive"
+    },
+    "6106611:6": {
+        "17": "positive"
+    },
+    "6106611:7": {
+        "17": "positive"
+    },
+    "6106611:8": {
+        "17": "positive"
+    },
+    "15661601:11": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "15661601:12": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "11761341:8": {
+        "17": "positive"
+    },
+    "11761341:9": {
+        "17": "neutral"
+    },
+    "11761341:10": {
+        "17": "neutral"
+    },
+    "25433517:12": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "25433517:13": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "22614886:10": {
+        "17": "neutral"
+    },
+    "21205110:7": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "18231889:12": {
+        "11": "neutral",
+        "18": "negative"
+    },
+    "19138954:10": {
+        "11": "negative",
+        "18": "positive"
+    },
+    "19650782:7": {
+        "17": "positive"
+    },
+    "19650782:8": {
+        "17": "neutral"
+    },
+    "2429085:9": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "19615062:12": {
+        "11": "neutral",
+        "18": "positive"
+    },
+    "19615062:13": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "15372589:11": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "19082870:10": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "19082870:11": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "15497510:8": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "15497510:9": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "25760553:6": {
+        "11": "positive",
+        "18": "neutral"
+    },
+    "22348983:10": {
+        "11": "positive",
+        "18": "neutral"
+    },
+    "18434903:12": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "21796050:12": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "21796050:13": {
+        "11": "neutral",
+        "18": "negative"
+    },
+    "21796050:14": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "16077888:7": {
+        "11": "negative",
+        "18": "negative"
+    },
+    "20015430:10": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "11879862:12": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "20160213:7": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "11404533:6": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "10795956:11": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "20397858:10": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "21934371:12": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "21934371:13": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "17601444:9": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "21406499:7": {
+        "17": "positive"
+    },
+    "21406499:8": {
+        "17": "neutral"
+    },
+    "9449301:6": {
+        "17": "positive"
+    },
+    "20807460:9": {
+        "17": "positive"
+    },
+    "10551702:9": {
+        "17": "neutral"
+    },
+    "3018566:6": {
+        "11": "negative",
+        "18": "positive"
+    },
+    "18294998:13": {
+        "17": "neutral"
+    },
+    "16735016:6": {
+        "17": "positive"
+    },
+    "21750125:12": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "21750125:13": {
+        "11": "neutral",
+        "18": "positive"
+    },
+    "22314671:11": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "389839:14": {
+        "17": "neutral"
+    },
+    "15485440:11": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "15485440:12": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "8017507:5": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "20211293:9": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "23733798:10": {
+        "11": "positive",
+        "18": "neutral"
+    },
+    "12623561:12": {
+        "17": "positive"
+    },
+    "23483343:11": {
+        "17": "positive"
+    },
+    "23483343:12": {
+        "17": "positive"
+    },
+    "22030199:12": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "22030199:13": {
+        "11": "neutral",
+        "18": "positive"
+    },
+    "16140442:4": {
+        "11": "neutral",
+        "18": "negative"
+    },
+    "10349927:10": {
+        "11": "positive",
+        "18": "neutral"
+    },
+    "11713946:6": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "19332203:10": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "24918373:11": {
+        "17": "positive"
+    },
+    "24918373:12": {
+        "17": "neutral"
+    },
+    "24918373:13": {
+        "17": "neutral"
+    },
+    "24918373:14": {
+        "17": "neutral"
+    },
+    "15022148:9": {
+        "17": "neutral"
+    },
+    "10972446:5": {
+        "11": "positive",
+        "18": "neutral"
+    },
+    "8215267:9": {
+        "17": "neutral"
+    },
+    "21808851:7": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "10075342:9": {
+        "11": "neutral",
+        "18": "negative"
+    },
+    "9198262:6": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "21976631:8": {
+        "17": "negative"
+    },
+    "16822100:6": {
+        "11": "neutral",
+        "18": "positive"
+    },
+    "15563708:10": {
+        "17": "positive"
+    },
+    "15563708:11": {
+        "17": "positive"
+    },
+    "19644851:9": {
+        "11": "negative",
+        "18": "neutral"
+    },
+    "19644851:10": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "1783919:7": {
+        "17": "positive"
+    },
+    "1511475:7": {
+        "17": "positive"
+    },
+    "2680497:11": {
+        "17": "positive"
+    },
+    "2522475:9": {
+        "11": "neutral",
+        "18": "positive"
+    },
+    "24517720:9": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "23817921:13": {
+        "17": "positive"
+    },
+    "23888318:10": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "16151035:10": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "16151035:11": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "18162183:10": {
+        "17": "positive"
+    },
+    "17201798:7": {
+        "17": "positive"
+    },
+    "21482925:12": {
+        "17": "positive"
+    },
+    "1722697:11": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "9869717:11": {
+        "17": "positive"
+    },
+    "9869717:12": {
+        "17": "negative"
+    },
+    "20008582:10": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "20008582:11": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "20008582:12": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "21787184:9": {
+        "11": "neutral",
+        "18": "negative"
+    },
+    "21787184:10": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "21787184:11": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "3040923:8": {
+        "17": "positive"
+    },
+    "24083628:6": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "24083628:7": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "24083628:8": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "24083628:9": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "11081319:12": {
+        "17": "neutral"
+    },
+    "11081319:13": {
+        "17": "neutral"
+    },
+    "9462678:11": {
+        "17": "positive"
+    },
+    "9462678:12": {
+        "17": "neutral"
+    },
+    "23143828:6": {
+        "17": "negative"
+    },
+    "4023472:5": {
+        "17": "neutral"
+    },
+    "4023472:6": {
+        "17": "neutral"
+    },
+    "22412140:10": {
+        "17": "neutral"
+    },
+    "22412140:11": {
+        "17": "positive"
+    },
+    "1426322:19": {
+        "17": "neutral"
+    },
+    "1426322:20": {
+        "17": "neutral"
+    },
+    "12818283:12": {
+        "17": "neutral"
+    },
+    "12818283:13": {
+        "17": "positive"
+    },
+    "12151444:11": {
+        "17": "positive"
+    },
+    "24722047:10": {
+        "17": "positive"
+    },
+    "9079233:12": {
+        "17": "positive"
+    },
+    "9079233:13": {
+        "17": "positive"
+    },
+    "9079233:14": {
+        "17": "neutral"
+    },
+    "18424323:14": {
+        "17": "positive"
+    },
+    "18424323:15": {
+        "17": "positive"
+    },
+    "25046241:10": {
+        "17": "neutral"
+    },
+    "12892243:11": {
+        "17": "positive"
+    },
+    "17187165:9": {
+        "17": "neutral"
+    },
+    "17187165:10": {
+        "17": "neutral"
+    },
+    "7624600:5": {
+        "17": "neutral"
+    },
+    "24928479:11": {
+        "17": "negative",
+        "19": "neutral",
+        "11": "neutral"
+    },
+    "14985223:9": {
+        "17": "negative",
+        "19": "negative",
+        "11": "neutral"
+    },
+    "14985223:10": {
+        "17": "neutral",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "11314826:14": {
+        "17": "negative",
+        "19": "negative",
+        "11": "negative"
+    },
+    "6880922:5": {
+        "17": "positive",
+        "19": "positive"
+    },
+    "6880922:6": {
+        "17": "neutral",
+        "19": "neutral"
+    },
+    "6880922:7": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral"
+    },
+    "22829102:13": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "6751239:3": {
+        "17": "negative",
+        "19": "neutral",
+        "11": "neutral"
+    },
+    "3293777:9": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral"
+    },
+    "10579608:17": {
+        "17": "neutral",
+        "19": "positive",
+        "11": "positive"
+    },
+    "10579608:18": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "8395315:5": {
+        "17": "negative",
+        "19": "neutral"
+    },
+    "8395315:6": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "24661511:10": {
+        "17": "negative",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "19522571:10": {
+        "17": "neutral",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "18691854:10": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "10702965:5": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "12946763:10": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "12946763:11": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral"
+    },
+    "15131558:8": {
+        "17": "negative",
+        "19": "negative",
+        "11": "neutral"
+    },
+    "15131558:9": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral"
+    },
+    "7733839:9": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "7733839:10": {
+        "17": "negative",
+        "19": "neutral",
+        "11": "neutral"
+    },
+    "1991426:9": {
+        "17": "positive"
+    },
+    "1991426:10": {
+        "17": "neutral",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "1688044:5": {
+        "17": "neutral"
+    },
+    "1688044:6": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "8784330:14": {
+        "17": "neutral",
+        "19": "positive",
+        "11": "positive"
+    },
+    "8784330:15": {
+        "17": "negative",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "10880165:7": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "23087258:14": {
+        "17": "neutral",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "17538513:10": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "17538513:11": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral"
+    },
+    "15809382:18": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "3218878:2": {
+        "17": "neutral",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "16202350:28": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "16202350:29": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral"
+    },
+    "11986448:10": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "11986448:11": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "3521428:7": {
+        "17": "neutral"
+    },
+    "3521428:8": {
+        "17": "negative",
+        "19": "negative",
+        "11": "neutral"
+    },
+    "7599546:9": {
+        "17": "neutral"
+    },
+    "7599546:10": {
+        "17": "negative",
+        "19": "negative",
+        "11": "neutral"
+    },
+    "3293456:19": {
+        "17": "neutral"
+    },
+    "3293456:20": {
+        "17": "neutral",
+        "19": "negative",
+        "11": "neutral"
+    },
+    "11723089:10": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "10972174:9": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral"
+    },
+    "10972174:10": {
+        "17": "negative",
+        "19": "negative",
+        "11": "neutral"
+    },
+    "23477118:15": {
+        "17": "positive",
+        "19": "positive",
+        "11": "negative"
+    },
+    "23477118:16": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "23477118:17": {
+        "17": "neutral",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "11806295:11": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "8942501:7": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "10100041:10": {
+        "17": "positive",
+        "19": "negative",
+        "11": "negative"
+    },
+    "21908956:12": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "1678965:9": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "24778393:10": {
+        "17": "negative",
+        "19": "negative",
+        "11": "neutral"
+    },
+    "24778393:11": {
+        "17": "neutral",
+        "19": "negative",
+        "11": "neutral"
+    },
+    "25185277:6": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "25185277:7": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "25185277:8": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "16619152:10": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "15512177:8": {
+        "17": "neutral",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "19295325:11": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "19295325:12": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "25126854:14": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "21207908:7": {
+        "17": "neutral",
+        "19": "neutral",
+        "11": "neutral"
+    },
+    "8239308:14": {
+        "17": "neutral",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "16469456:11": {
+        "17": "negative",
+        "19": "negative",
+        "11": "negative"
+    },
+    "21689115:8": {
+        "17": "neutral"
+    },
+    "21689115:9": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "8438711:5": {
+        "17": "positive",
+        "19": "positive",
+        "11": "neutral"
+    },
+    "19576090:7": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "8485791:10": {
+        "17": "positive",
+        "19": "positive",
+        "11": "positive"
+    },
+    "21796128:8": {
+        "17": "neutral"
+    },
+    "21796128:9": {
+        "17": "neutral"
+    },
+    "14570676:13": {
+        "17": "positive"
+    },
+    "2671112:8": {
+        "17": "positive"
+    },
+    "2671112:9": {
+        "17": "neutral"
+    },
+    "22510426:13": {
+        "17": "positive"
+    },
+    "22510426:14": {
+        "17": "neutral"
+    },
+    "15173031:11": {
+        "17": "neutral"
+    },
+    "15173031:12": {
+        "17": "positive"
+    },
+    "21438987:12": {
+        "17": "negative"
+    },
+    "16076378:7": {
+        "17": "positive"
+    },
+    "16916298:9": {
+        "17": "neutral"
+    },
+    "16916298:10": {
+        "17": "neutral"
+    },
+    "16916298:11": {
+        "17": "neutral"
+    },
+    "8557206:6": {
+        "17": "positive"
+    },
+    "2276191:7": {
+        "17": "neutral"
+    },
+    "2276191:8": {
+        "17": "neutral"
+    },
+    "1921241:9": {
+        "17": "positive"
+    },
+    "18304051:8": {
+        "17": "positive"
+    },
+    "9570244:10": {
+        "11": "neutral"
+    },
+    "1090718:5": {
+        "17": "neutral"
+    },
+    "1090718:6": {
+        "17": "neutral"
+    },
+    "3900301:5": {
+        "17": "neutral"
+    },
+    "19941990:9": {
+        "17": "positive"
+    },
+    "8575576:16": {
+        "17": "positive"
+    },
+    "1936474:5": {
+        "17": "neutral"
+    },
+    "9593495:9": {
+        "17": "neutral"
+    },
+    "9593495:10": {
+        "17": "neutral"
+    },
+    "22405683:14": {
+        "17": "neutral"
+    },
+    "22405683:15": {
+        "17": "neutral"
+    },
+    "22405683:16": {
+        "17": "neutral"
+    },
+    "3516096:5": {
+        "17": "positive"
+    },
+    "12009344:15": {
+        "17": "positive"
+    },
+    "12009344:16": {
+        "17": "positive"
+    },
+    "12009344:17": {
+        "17": "positive"
+    },
+    "19818442:7": {
+        "17": "positive"
+    },
+    "19818442:8": {
+        "17": "neutral"
+    },
+    "12377682:8": {
+        "17": "neutral"
+    },
+    "3892676:10": {
+        "17": "positive"
+    },
+    "3892676:11": {
+        "17": "negative"
+    },
+    "3892676:12": {
+        "17": "neutral"
+    },
+    "8951940:5": {
+        "17": "neutral"
+    },
+    "20012051:10": {
+        "17": "positive"
+    },
+    "20012051:11": {
+        "17": "neutral"
+    },
+    "20545406:8": {
+        "17": "positive"
+    },
+    "12208593:9": {
+        "17": "neutral"
+    },
+    "16958094:9": {
+        "17": "neutral"
+    },
+    "10100083:10": {
+        "17": "positive"
+    },
+    "2674875:4": {
+        "17": "positive"
+    },
+    "21196444:11": {
+        "17": "negative"
+    },
+    "1993640:7": {
+        "17": "negative"
+    },
+    "8672190:6": {
+        "17": "negative"
+    },
+    "2228396:11": {
+        "17": "negative"
+    },
+    "10599554:9": {
+        "17": "positive"
+    },
+    "6206105:8": {
+        "17": "positive"
+    },
+    "2049965:4": {
+        "17": "positive"
+    },
+    "18046027:10": {
+        "17": "positive"
+    },
+    "18046027:11": {
+        "17": "neutral"
+    },
+    "25546255:10": {
+        "17": "negative"
+    },
+    "25546255:11": {
+        "17": "neutral"
+    },
+    "23111138:12": {
+        "17": "positive"
+    },
+    "23111138:13": {
+        "17": "positive"
+    },
+    "24608494:10": {
+        "17": "positive"
+    },
+    "2653402:4": {
+        "17": "negative"
+    },
+    "17629590:10": {
+        "17": "positive"
+    },
+    "20497967:10": {
+        "17": "negative"
+    },
+    "20497967:11": {
+        "17": "negative"
+    },
+    "2250501:8": {
+        "17": "positive"
+    },
+    "20653294:9": {
+        "17": "positive"
+    },
+    "10749277:7": {
+        "17": "negative"
+    },
+    "24508042:11": {
+        "11": "neutral"
+    },
+    "10482044:8": {
+        "17": "negative"
+    },
+    "8116721:7": {
+        "17": "neutral"
+    },
+    "8116721:8": {
+        "17": "neutral"
+    },
+    "8116721:9": {
+        "17": "neutral"
+    },
+    "25118333:8": {
+        "11": "positive"
+    },
+    "25118333:9": {
+        "11": "neutral"
+    },
+    "8083103:15": {
+        "11": "neutral"
+    },
+    "25143717:10": {
+        "11": "neutral"
+    },
+    "25143717:11": {
+        "11": "neutral"
+    },
+    "25143717:12": {
+        "11": "neutral"
+    },
+    "25143717:13": {
+        "11": "neutral"
+    },
+    "21457428:7": {
+        "11": "neutral"
+    },
+    "10333895:8": {
+        "11": "neutral"
+    },
+    "10333895:9": {
+        "11": "neutral"
+    },
+    "10333895:10": {
+        "11": "neutral"
+    },
+    "22404194:9": {
+        "19": "positive"
+    },
+    "18277833:8": {
+        "19": "positive"
+    },
+    "18277833:9": {
+        "19": "neutral"
+    },
+    "21075062:10": {
+        "19": "positive"
+    },
+    "12473551:12": {
+        "19": "positive"
+    },
+    "22971486:7": {
+        "19": "positive"
+    },
+    "22971486:8": {
+        "19": "positive"
+    },
+    "16704735:11": {
+        "19": "positive"
+    },
+    "25582987:11": {
+        "19": "positive"
+    },
+    "25582987:12": {
+        "19": "neutral"
+    },
+    "22468627:12": {
+        "19": "positive"
+    },
+    "6309882:13": {
+        "19": "positive"
+    },
+    "3425265:5": {
+        "19": "neutral"
+    },
+    "24862701:13": {
+        "19": "positive"
+    },
+    "24862701:14": {
+        "19": "positive"
+    },
+    "15215002:9": {
+        "19": "positive"
+    },
+    "23748760:6": {
+        "19": "positive"
+    },
+    "23748760:7": {
+        "19": "positive"
+    },
+    "7927956:5": {
+        "19": "positive"
+    },
+    "1829465:6": {
+        "19": "negative"
+    },
+    "2007937:11": {
+        "19": "positive"
+    },
+    "11589607:5": {
+        "19": "positive"
+    },
+    "18502002:4": {
+        "19": "neutral"
+    },
+    "22338607:8": {
+        "19": "positive"
+    },
+    "22338607:9": {
+        "19": "negative"
+    },
+    "22338607:10": {
+        "19": "positive"
+    },
+    "11561075:12": {
+        "19": "positive"
+    },
+    "11561075:13": {
+        "19": "neutral"
+    },
+    "16208150:10": {
+        "19": "positive"
+    },
+    "11566639:9": {
+        "19": "negative"
+    },
+    "21966999:10": {
+        "18": "neutral"
+    },
+    "15206665:10": {
+        "18": "neutral",
+        "15": "positive"
+    },
+    "15372589:10": {
+        "18": "positive"
+    },
+    "22348983:9": {
+        "18": "positive"
+    },
+    "10795956:10": {
+        "18": "negative"
+    },
+    "20397858:9": {
+        "18": "negative"
+    },
+    "10972446:4": {
+        "18": "positive"
+    },
+    "16822100:5": {
+        "18": "positive"
+    },
+    "23888318:9": {
+        "18": "positive"
+    },
+    "18397695:9": {
+        "19": "positive"
+    },
+    "17717526:11": {
+        "19": "positive"
+    },
+    "19675446:9": {
+        "19": "negative"
+    },
+    "21035560:9": {
+        "19": "positive"
+    },
+    "21035560:10": {
+        "19": "positive"
+    },
+    "21478328:11": {
+        "19": "neutral"
+    },
+    "21478328:12": {
+        "19": "positive"
+    },
+    "22939929:12": {
+        "19": "negative"
+    },
+    "22939929:13": {
+        "19": "negative"
+    },
+    "22939929:14": {
+        "19": "negative"
+    },
+    "11177158:12": {
+        "19": "neutral"
+    },
+    "15928685:9": {
+        "19": "positive"
+    },
+    "15928685:10": {
+        "19": "positive"
+    },
+    "15928685:11": {
+        "19": "positive"
+    },
+    "17903157:12": {
+        "19": "positive"
+    },
+    "17903157:13": {
+        "19": "positive"
+    },
+    "17903157:14": {
+        "19": "positive"
+    },
+    "1826912:11": {
+        "19": "positive"
+    },
+    "1826912:12": {
+        "19": "neutral"
+    },
+    "16606471:12": {
+        "19": "neutral"
+    },
+    "22552183:11": {
+        "19": "negative"
+    },
+    "22552183:12": {
+        "19": "neutral"
+    },
+    "20397782:5": {
+        "19": "positive"
+    },
+    "20397782:6": {
+        "19": "positive"
+    },
+    "20397782:7": {
+        "19": "positive"
+    },
+    "24511708:11": {
+        "19": "positive"
+    },
+    "7706451:5": {
+        "19": "negative"
+    },
+    "7706451:6": {
+        "19": "negative"
+    },
+    "9468419:11": {
+        "19": "positive"
+    },
+    "2182329:6": {
+        "19": "neutral"
+    },
+    "10078672:11": {
+        "19": "positive"
+    },
+    "19728002:13": {
+        "19": "negative"
+    },
+    "19728002:14": {
+        "19": "positive"
+    },
+    "16704567:11": {
+        "19": "negative"
+    },
+    "960908:4": {
+        "19": "positive"
+    },
+    "960908:5": {
+        "19": "neutral"
+    },
+    "9839093:10": {
+        "19": "positive"
+    },
+    "20517329:8": {
+        "19": "positive"
+    },
+    "2433872:6": {
+        "19": "positive"
+    },
+    "8610913:11": {
+        "19": "positive"
+    },
+    "10744089:10": {
+        "19": "positive"
+    },
+    "10744089:11": {
+        "19": "positive"
+    },
+    "15730653:10": {
+        "19": "positive"
+    },
+    "1528969:13": {
+        "19": "positive"
+    },
+    "1528969:14": {
+        "19": "positive"
+    },
+    "350265:4": {
+        "19": "positive"
+    },
+    "9307345:16": {
+        "19": "positive"
+    },
+    "9307345:17": {
+        "19": "positive"
+    },
+    "15824848:17": {
+        "19": "positive"
+    },
+    "9436017:10": {
+        "19": "negative"
+    },
+    "17370487:7": {
+        "19": "positive"
+    },
+    "8981145:9": {
+        "19": "negative"
+    },
+    "16776916:9": {
+        "19": "positive"
+    },
+    "16776916:10": {
+        "19": "positive"
+    },
+    "8839551:11": {
+        "19": "negative"
+    },
+    "15213584:7": {
+        "19": "negative"
+    },
+    "15213584:8": {
+        "19": "positive"
+    },
+    "3089521:7": {
+        "19": "neutral"
+    },
+    "6356319:7": {
+        "19": "positive"
+    },
+    "15871195:13": {
+        "19": "neutral"
+    },
+    "15871195:14": {
+        "19": "positive"
+    },
+    "1677012:8": {
+        "19": "positive"
+    },
+    "16892419:8": {
+        "19": "positive"
+    },
+    "16449099:11": {
+        "19": "positive"
+    },
+    "2183488:5": {
+        "19": "positive"
+    },
+    "20688474:6": {
+        "19": "positive"
+    },
+    "9292644:6": {
+        "19": "positive"
+    },
+    "16923411:13": {
+        "19": "positive"
+    },
+    "16923411:14": {
+        "19": "positive"
+    },
+    "24890138:10": {
+        "19": "positive"
+    },
+    "24890138:11": {
+        "19": "neutral"
+    },
+    "695649:12": {
+        "19": "positive"
+    },
+    "18303079:9": {
+        "19": "positive"
+    },
+    "2949059:5": {
+        "19": "positive"
+    },
+    "10985707:12": {
+        "19": "negative"
+    },
+    "19944392:11": {
+        "19": "negative"
+    },
+    "1418021:10": {
+        "19": "negative"
+    },
+    "1418021:11": {
+        "19": "neutral"
+    },
+    "14641923:10": {
+        "19": "positive"
+    },
+    "14641923:11": {
+        "19": "neutral"
+    },
+    "17084566:11": {
+        "19": "negative"
+    },
+    "17084566:12": {
+        "19": "positive"
+    },
+    "17084566:13": {
+        "19": "neutral"
+    },
+    "21931661:11": {
+        "19": "negative"
+    },
+    "21931661:12": {
+        "19": "negative"
+    },
+    "22356732:13": {
+        "19": "neutral"
+    },
+    "12970637:9": {
+        "19": "positive"
+    },
+    "12970637:10": {
+        "19": "neutral"
+    },
+    "6947984:17": {
+        "19": "positive"
+    },
+    "18542839:9": {
+        "19": "neutral"
+    },
+    "18542839:10": {
+        "19": "neutral"
+    },
+    "23490598:10": {
+        "19": "positive"
+    },
+    "16469981:8": {
+        "19": "positive"
+    },
+    "22414822:10": {
+        "19": "negative"
+    },
+    "22414822:11": {
+        "19": "positive"
+    },
+    "23350886:13": {
+        "19": "positive"
+    },
+    "23273855:13": {
+        "19": "positive"
+    },
+    "23727387:9": {
+        "19": "positive"
+    },
+    "23727387:10": {
+        "19": "neutral"
+    },
+    "9824387:14": {
+        "19": "neutral"
+    },
+    "9824387:15": {
+        "19": "negative"
+    },
+    "9824387:16": {
+        "19": "positive"
+    },
+    "18198648:7": {
+        "19": "positive"
+    },
+    "12095312:8": {
+        "19": "positive"
+    },
+    "16260179:10": {
+        "19": "positive"
+    },
+    "16260179:11": {
+        "19": "positive"
+    },
+    "16260179:12": {
+        "19": "neutral"
+    },
+    "7651456:9": {
+        "19": "positive"
+    },
+    "15983534:9": {
+        "19": "negative"
+    },
+    "15983534:10": {
+        "19": "positive"
+    },
+    "15983534:11": {
+        "19": "neutral"
+    },
+    "8697497:3": {
+        "19": "positive"
+    },
+    "18535115:9": {
+        "19": "positive"
+    },
+    "18535115:10": {
+        "19": "neutral"
+    },
+    "23536942:17": {
+        "19": "positive"
+    },
+    "23536942:18": {
+        "19": "positive"
+    },
+    "23733720:10": {
+        "19": "negative"
+    },
+    "19540162:10": {
+        "19": "neutral"
+    },
+    "19540162:11": {
+        "19": "negative"
+    },
+    "19540162:12": {
+        "19": "neutral"
+    },
+    "15808251:14": {
+        "19": "positive"
+    },
+    "20722847:13": {
+        "19": "positive"
+    },
+    "16197669:13": {
+        "19": "positive"
+    },
+    "16197669:14": {
+        "19": "positive"
+    },
+    "20923251:13": {
+        "19": "positive"
+    },
+    "6123337:2": {
+        "19": "negative"
+    },
+    "6123337:3": {
+        "19": "negative"
+    },
+    "14987883:12": {
+        "19": "positive"
+    },
+    "8251028:6": {
+        "19": "negative"
+    },
+    "25441486:12": {
+        "19": "positive"
+    },
+    "1825097:8": {
+        "19": "positive"
+    },
+    "1825097:9": {
+        "19": "neutral"
+    },
+    "9833596:10": {
+        "19": "positive"
+    },
+    "9833596:11": {
+        "19": "neutral"
+    },
+    "9833596:12": {
+        "19": "neutral"
+    },
+    "9833596:13": {
+        "19": "positive"
+    },
+    "25465497:11": {
+        "19": "positive"
+    },
+    "25465497:12": {
+        "19": "neutral"
+    },
+    "9003465:10": {
+        "19": "positive"
+    },
+    "19943881:6": {
+        "19": "positive"
+    },
+    "19943881:7": {
+        "19": "positive"
+    },
+    "12475833:13": {
+        "19": "positive"
+    },
+    "10898131:8": {
+        "19": "positive"
+    },
+    "10602355:13": {
+        "19": "negative"
+    },
+    "22763899:13": {
+        "11": "negative"
+    },
+    "7958491:11": {
+        "11": "neutral"
+    },
+    "7958491:12": {
+        "11": "neutral"
+    },
+    "7718095:14": {
+        "11": "positive"
+    },
+    "7718095:15": {
+        "11": "neutral"
+    },
+    "18353503:9": {
+        "11": "positive"
+    },
+    "18712479:7": {
+        "11": "positive"
+    },
+    "9282303:10": {
+        "11": "positive"
+    },
+    "11846847:16": {
+        "11": "neutral"
+    },
+    "20838741:11": {
+        "11": "positive"
+    },
+    "21495025:9": {
+        "11": "neutral"
+    },
+    "21495025:10": {
+        "11": "positive"
+    },
+    "22855917:10": {
+        "11": "positive"
+    },
+    "22855917:11": {
+        "11": "positive"
+    },
+    "23071551:10": {
+        "11": "positive"
+    },
+    "23071551:11": {
+        "11": "positive"
+    },
+    "11480461:10": {
+        "11": "neutral"
+    },
+    "11480461:11": {
+        "11": "neutral"
+    },
+    "2186476:4": {
+        "11": "negative"
+    },
+    "7049204:8": {
+        "11": "positive"
+    },
+    "7049204:9": {
+        "11": "positive"
+    },
+    "16701923:8": {
+        "11": "neutral"
+    },
+    "16701923:9": {
+        "11": "neutral"
+    },
+    "11800507:8": {
+        "11": "positive"
+    },
+    "11800507:9": {
+        "11": "positive"
+    },
+    "21332375:7": {
+        "11": "positive"
+    },
+    "2210311:6": {
+        "11": "positive"
+    },
+    "11435045:10": {
+        "11": "positive"
+    },
+    "23716037:11": {
+        "11": "positive"
+    },
+    "18503138:13": {
+        "11": "positive"
+    },
+    "18503138:14": {
+        "11": "positive"
+    },
+    "14627174:8": {
+        "11": "positive"
+    },
+    "12385443:11": {
+        "11": "positive"
+    },
+    "12385443:12": {
+        "11": "neutral"
+    },
+    "23865441:10": {
+        "11": "neutral"
+    },
+    "1922860:8": {
+        "11": "neutral"
+    },
+    "20435964:10": {
+        "11": "positive"
+    },
+    "23171672:12": {
+        "11": "neutral"
+    },
+    "23171672:13": {
+        "11": "neutral"
+    },
+    "25410205:9": {
+        "11": "positive"
+    },
+    "25410205:10": {
+        "11": "neutral"
+    },
+    "25410205:11": {
+        "11": "neutral"
+    },
+    "25410205:12": {
+        "11": "neutral"
+    },
+    "19015462:10": {
+        "11": "neutral"
+    },
+    "19015462:11": {
+        "11": "neutral"
+    },
+    "7913348:6": {
+        "11": "positive"
+    },
+    "9821903:15": {
+        "11": "negative"
+    },
+    "9274584:13": {
+        "11": "neutral"
+    },
+    "9397292:10": {
+        "11": "positive"
+    },
+    "9397292:11": {
+        "11": "neutral"
+    },
+    "9397292:12": {
+        "11": "neutral"
+    },
+    "9397292:13": {
+        "11": "neutral"
+    },
+    "19907103:7": {
+        "11": "positive"
+    },
+    "16242221:5": {
+        "11": "neutral"
+    },
+    "15937294:9": {
+        "11": "neutral"
+    },
+    "15937294:10": {
+        "11": "neutral"
+    },
+    "12393567:7": {
+        "11": "negative"
+    },
+    "15845715:13": {
+        "11": "positive"
+    },
+    "9380321:11": {
+        "11": "neutral"
+    },
+    "9380321:12": {
+        "11": "neutral"
+    },
+    "8806903:7": {
+        "11": "neutral"
+    },
+    "8319490:7": {
+        "11": "positive"
+    },
+    "8319490:8": {
+        "11": "positive"
+    },
+    "24930383:13": {
+        "11": "positive"
+    },
+    "24930383:14": {
+        "11": "neutral"
+    },
+    "20878857:5": {
+        "11": "positive"
+    },
+    "15635849:12": {
+        "11": "positive"
+    },
+    "11953965:14": {
+        "11": "positive",
+        "18": "negative"
+    },
+    "24507377:17": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "24507377:18": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "10369493:15": {
+        "11": "negative",
+        "18": "negative"
+    },
+    "10369493:16": {
+        "11": "neutral",
+        "18": "positive"
+    },
+    "344012:8": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "8175445:12": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "8175445:13": {
+        "11": "neutral",
+        "18": "positive"
+    },
+    "23214314:16": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "23259453:10": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "15833934:8": {
+        "11": "negative",
+        "18": "negative"
+    },
+    "15833934:9": {
+        "11": "positive",
+        "18": "neutral"
+    },
+    "10800239:11": {
+        "11": "negative",
+        "18": "negative"
+    },
+    "2576365:6": {
+        "11": "neutral",
+        "18": "positive"
+    },
+    "24916165:10": {
+        "11": "neutral",
+        "18": "positive"
+    },
+    "24606601:17": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "12477522:12": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "16855426:10": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "16855426:11": {
+        "11": "neutral",
+        "18": "positive"
+    },
+    "22853852:8": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "3931661:5": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "8128328:5": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "9395758:5": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "11861235:9": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "24329966:7": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "24329966:8": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "24329966:9": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "21481230:14": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "21481230:15": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "23399677:11": {
+        "11": "neutral"
+    },
+    "23399677:12": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "11769634:12": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "1878611:8": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "2000785:8": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "2000785:9": {
+        "11": "neutral",
+        "18": "positive"
+    },
+    "2000785:10": {
+        "11": "neutral",
+        "18": "positive"
+    },
+    "8788485:8": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "12050248:16": {
+        "11": "positive",
+        "18": "neutral"
+    },
+    "12050248:17": {
+        "11": "positive",
+        "18": "neutral"
+    },
+    "138664:8": {
+        "11": "neutral",
+        "18": "positive"
+    },
+    "24293120:15": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "24693973:12": {
+        "11": "neutral",
+        "18": "positive"
+    },
+    "24693973:13": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "7863731:5": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "17967652:11": {
+        "11": "positive",
+        "18": "neutral"
+    },
+    "17967652:12": {
+        "11": "neutral",
+        "18": "negative"
+    },
+    "17967652:13": {
+        "11": "neutral",
+        "18": "negative"
+    },
+    "3812055:9": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "24057294:15": {
+        "11": "neutral",
+        "18": "negative"
+    },
+    "22734374:11": {
+        "11": "positive",
+        "18": "neutral"
+    },
+    "22734374:12": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "15280524:10": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "15280524:11": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "20015432:11": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "16151466:6": {
+        "11": "neutral"
+    },
+    "16151466:7": {
+        "11": "neutral"
+    },
+    "16151466:8": {
+        "11": "negative",
+        "18": "negative"
+    },
+    "15599137:10": {
+        "11": "neutral",
+        "18": "positive"
+    },
+    "15599137:11": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "7044797:9": {
+        "11": "positive",
+        "18": "neutral"
+    },
+    "8748357:13": {
+        "11": "positive",
+        "18": "positive"
+    },
+    "21185347:8": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "3081600:6": {
+        "11": "negative",
+        "18": "negative"
+    },
+    "3081600:7": {
+        "11": "negative",
+        "18": "negative"
+    },
+    "7702136:8": {
+        "11": "positive",
+        "18": "neutral"
+    },
+    "15013268:9": {
+        "11": "neutral",
+        "18": "negative"
+    },
+    "9097873:6": {
+        "11": "neutral",
+        "18": "neutral"
+    },
+    "19337777:13": {
+        "11": "positive"
+    },
+    "19337777:14": {
+        "11": "positive"
+    },
+    "10440592:11": {
+        "11": "neutral"
+    },
+    "18971409:7": {
+        "11": "positive"
+    },
+    "18971409:8": {
+        "11": "neutral"
+    },
+    "18971409:9": {
+        "11": "positive"
+    },
+    "16285195:6": {
+        "11": "positive"
+    },
+    "19762206:12": {
+        "11": "positive"
+    },
+    "8199723:8": {
+        "11": "negative"
+    },
+    "8199723:9": {
+        "11": "neutral"
+    },
+    "8199723:10": {
+        "11": "neutral"
+    },
+    "14719145:13": {
+        "11": "positive"
+    },
+    "14719145:14": {
+        "11": "neutral"
+    },
+    "10898435:12": {
+        "11": "positive"
+    },
+    "10898435:13": {
+        "11": "neutral"
+    },
+    "15946977:9": {
+        "11": "positive"
+    },
+    "20718901:11": {
+        "11": "positive"
+    },
+    "17485893:6": {
+        "11": "positive"
+    },
+    "17485893:7": {
+        "11": "positive"
+    },
+    "17485893:8": {
+        "11": "neutral"
+    },
+    "3388151:7": {
+        "11": "positive"
+    },
+    "25602901:8": {
+        "11": "positive"
+    },
+    "3555386:6": {
+        "11": "positive"
+    },
+    "20417488:12": {
+        "11": "neutral"
+    },
+    "7673536:8": {
+        "11": "neutral"
+    },
+    "22884058:9": {
+        "11": "positive"
+    },
+    "22884058:10": {
+        "11": "neutral"
+    },
+    "19454032:12": {
+        "11": "positive"
+    },
+    "23128439:8": {
+        "11": "positive"
+    },
+    "23128439:9": {
+        "11": "positive"
+    },
+    "23128439:10": {
+        "11": "positive"
+    },
+    "20833738:15": {
+        "11": "neutral"
+    },
+    "17534745:14": {
+        "11": "neutral"
+    },
+    "17534745:15": {
+        "11": "neutral"
+    },
+    "19301038:8": {
+        "11": "neutral"
+    },
+    "21236333:8": {
+        "11": "neutral"
+    },
+    "18647128:9": {
+        "11": "negative"
+    },
+    "18647128:10": {
+        "11": "neutral"
+    },
+    "3880992:8": {
+        "11": "positive"
+    },
+    "3880992:9": {
+        "11": "neutral"
+    },
+    "1924666:8": {
+        "11": "neutral"
+    },
+    "11218239:12": {
+        "11": "neutral"
+    },
+    "11218239:13": {
+        "11": "neutral"
+    },
+    "11218239:14": {
+        "11": "neutral"
+    },
+    "20190349:9": {
+        "11": "neutral"
+    },
+    "22383996:12": {
+        "11": "positive"
+    },
+    "22383996:13": {
+        "11": "positive"
+    },
+    "17907854:8": {
+        "11": "neutral"
+    },
+    "3391621:3": {
+        "11": "neutral"
+    },
+    "21810024:13": {
+        "11": "neutral"
+    },
+    "11704584:8": {
+        "11": "positive"
+    },
+    "16505078:11": {
+        "11": "positive"
+    },
+    "22326841:11": {
+        "11": "positive"
+    },
+    "10971238:11": {
+        "11": "neutral"
+    },
+    "7234190:3": {
+        "11": "neutral"
+    },
+    "8535804:8": {
+        "11": "negative"
+    },
+    "16480570:11": {
+        "11": "neutral"
+    },
+    "20479767:12": {
+        "11": "neutral"
+    },
+    "20479767:13": {
+        "11": "neutral"
+    },
+    "18528399:7": {
+        "11": "positive"
+    },
+    "22456624:9": {
+        "11": "positive"
+    },
+    "23572323:12": {
+        "11": "positive"
+    },
+    "23572323:13": {
+        "11": "positive"
+    },
+    "11181997:13": {
+        "11": "positive"
+    },
+    "20050336:12": {
+        "11": "positive"
+    },
+    "8273859:11": {
+        "11": "neutral"
+    },
+    "7548903:13": {
+        "11": "positive"
+    },
+    "7548903:14": {
+        "11": "neutral"
+    },
+    "11932288:20": {
+        "11": "positive"
+    },
+    "11932288:21": {
+        "11": "neutral"
+    },
+    "374446:7": {
+        "11": "neutral"
+    },
+    "15571711:8": {
+        "11": "neutral"
+    },
+    "11285108:9": {
+        "11": "neutral"
+    },
+    "22986445:12": {
+        "11": "positive"
+    },
+    "2667310:8": {
+        "11": "positive"
+    },
+    "2667310:9": {
+        "11": "neutral"
+    },
+    "2667310:10": {
+        "11": "neutral"
+    },
+    "10811333:21": {
+        "11": "positive"
+    },
+    "10811333:22": {
+        "11": "positive"
+    },
+    "10811333:23": {
+        "11": "neutral"
+    },
+    "10811333:24": {
+        "11": "neutral"
+    },
+    "8883531:12": {
+        "11": "positive"
+    },
+    "15640382:9": {
+        "11": "positive"
+    },
+    "15640382:10": {
+        "11": "neutral"
+    },
+    "15677607:7": {
+        "11": "positive"
+    },
+    "9768932:11": {
+        "11": "positive"
+    },
+    "9768932:12": {
+        "11": "neutral"
+    },
+    "25602299:11": {
+        "11": "negative"
+    },
+    "25602299:12": {
+        "11": "neutral"
+    },
+    "12077469:5": {
+        "11": "neutral"
+    },
+    "12077469:6": {
+        "11": "neutral"
+    },
+    "17879533:7": {
+        "11": "positive"
+    },
+    "7742759:9": {
+        "11": "positive"
+    },
+    "15221244:9": {
+        "11": "positive"
+    },
+    "15221244:10": {
+        "11": "neutral"
+    },
+    "22230419:10": {
+        "11": "positive"
+    },
+    "22230419:11": {
+        "11": "neutral"
+    },
+    "2567755:3": {
+        "11": "positive"
+    },
+    "9817475:14": {
+        "11": "positive"
+    },
+    "9817475:15": {
+        "11": "positive"
+    },
+    "9817475:16": {
+        "11": "neutral"
+    },
+    "19478340:5": {
+        "11": "neutral"
+    },
+    "19818720:13": {
+        "11": "positive"
+    },
+    "19818720:14": {
+        "11": "neutral"
+    },
+    "356233:5": {
+        "11": "neutral"
+    },
+    "2141512:8": {
+        "11": "neutral"
+    },
+    "24916050:8": {
+        "11": "positive"
+    },
+    "24916050:9": {
+        "11": "positive"
+    },
+    "24916050:10": {
+        "11": "neutral"
+    },
+    "24916050:11": {
+        "11": "neutral"
+    },
+    "11075309:6": {
+        "11": "positive"
+    },
+    "24256085:11": {
+        "11": "neutral"
+    },
+    "24256085:12": {
+        "11": "neutral"
+    },
+    "24256085:13": {
+        "11": "neutral"
+    },
+    "24256085:14": {
+        "11": "neutral"
+    },
+    "23278328:6": {
+        "11": "neutral"
+    },
+    "12186515:11": {
+        "11": "positive"
+    },
+    "12850621:10": {
+        "11": "positive"
+    },
+    "22561055:7": {
+        "11": "positive"
+    },
+    "6357536:8": {
+        "11": "positive"
+    },
+    "6357536:9": {
+        "11": "neutral"
+    },
+    "10595648:7": {
+        "11": "positive"
+    },
+    "10595648:8": {
+        "11": "neutral"
+    },
+    "24266074:10": {
+        "11": "neutral"
+    },
+    "23724771:16": {
+        "11": "positive"
+    },
+    "23724771:17": {
+        "11": "positive"
+    },
+    "23724771:18": {
+        "11": "neutral"
+    },
+    "15072886:10": {
+        "11": "positive"
+    },
+    "15072886:11": {
+        "11": "neutral"
+    },
+    "8453706:9": {
+        "11": "neutral"
+    },
+    "25624435:8": {
+        "11": "positive"
+    },
+    "1732265:9": {
+        "11": "neutral"
+    },
+    "22057607:13": {
+        "11": "positive"
+    },
+    "24890747:8": {
+        "11": "positive"
+    },
+    "25099071:9": {
+        "11": "positive"
+    },
+    "16358163:18": {
+        "11": "neutral"
+    },
+    "16358163:19": {
+        "11": "neutral"
+    },
+    "10390389:11": {
+        "11": "neutral"
+    },
+    "20882400:10": {
+        "11": "positive"
+    },
+    "18254988:10": {
+        "11": "neutral"
+    },
+    "18254988:11": {
+        "11": "positive"
+    },
+    "18254988:12": {
+        "11": "neutral"
+    },
+    "18608313:13": {
+        "11": "neutral"
+    },
+    "18608313:14": {
+        "11": "neutral"
+    },
+    "11574498:9": {
+        "11": "positive"
+    },
+    "23497486:10": {
+        "11": "neutral"
+    },
+    "15753413:13": {
+        "11": "neutral"
+    },
+    "3579676:8": {
+        "11": "positive"
+    },
+    "3579676:9": {
+        "11": "neutral"
+    },
+    "20826592:9": {
+        "11": "positive"
+    },
+    "20826592:10": {
+        "11": "neutral"
+    },
+    "25011946:11": {
+        "11": "positive"
+    },
+    "25011946:12": {
+        "11": "neutral"
+    },
+    "2166308:7": {
+        "11": "neutral"
+    },
+    "8669598:11": {
+        "11": "neutral"
+    },
+    "18715524:9": {
+        "11": "positive"
+    },
+    "18715524:10": {
+        "11": "neutral"
+    },
+    "25535318:5": {
+        "11": "neutral"
+    },
+    "25535318:6": {
+        "11": "neutral"
+    },
+    "12427785:11": {
+        "11": "neutral"
+    },
+    "22925088:11": {
+        "19": "neutral"
+    },
+    "22925088:12": {
+        "19": "positive"
+    },
+    "22925088:13": {
+        "19": "neutral"
+    },
+    "8624220:15": {
+        "19": "positive"
+    },
+    "8624220:16": {
+        "19": "positive"
+    },
+    "20197168:11": {
+        "19": "positive"
+    },
+    "20197168:12": {
+        "19": "positive"
+    },
+    "20197168:13": {
+        "19": "neutral"
+    },
+    "12593523:10": {
+        "19": "positive"
+    },
+    "22642657:13": {
+        "19": "positive"
+    },
+    "2692655:11": {
+        "19": "neutral"
+    },
+    "2692655:12": {
+        "19": "negative"
+    },
+    "10999556:11": {
+        "19": "neutral"
+    },
+    "10999556:12": {
+        "19": "positive"
+    },
+    "12698153:16": {
+        "19": "positive"
+    },
+    "12698153:17": {
+        "19": "positive"
+    },
+    "12698153:18": {
+        "19": "positive"
+    },
+    "12698153:19": {
+        "19": "neutral"
+    },
+    "15486518:14": {
+        "18": "positive"
+    },
+    "2576365:4": {
+        "18": "positive"
+    },
+    "2576365:5": {
+        "18": "positive"
+    },
+    "9395758:4": {
+        "18": "negative"
+    },
+    "8788485:6": {
+        "18": "positive"
+    },
+    "8788485:7": {
+        "18": "neutral"
+    },
+    "9097873:5": {
+        "18": "positive"
+    },
+    "21340661:8": {
+        "15": "neutral"
+    },
+    "21340661:9": {
+        "15": "positive"
+    },
+    "22290521:17": {
+        "15": "positive"
+    },
+    "16984771:9": {
+        "15": "neutral"
+    },
+    "3526421:5": {
+        "15": "negative"
+    },
+    "25403144:17": {
+        "15": "neutral"
+    },
+    "2791799:7": {
+        "15": "positive"
+    },
+    "11532477:10": {
+        "15": "positive"
+    },
+    "1697950:11": {
+        "15": "neutral"
+    },
+    "20658390:8": {
+        "15": "negative"
+    },
+    "15269191:11": {
+        "15": "positive"
+    },
+    "25594129:11": {
+        "15": "positive"
+    },
+    "25594129:12": {
+        "15": "positive"
+    },
+    "16959055:8": {
+        "15": "negative"
+    },
+    "16959055:9": {
+        "15": "neutral"
+    },
+    "2498414:7": {
+        "15": "negative"
+    },
+    "2498414:8": {
+        "15": "neutral"
+    },
+    "7508827:10": {
+        "15": "positive"
+    },
+    "12620292:4": {
+        "15": "positive"
+    },
+    "9722035:8": {
+        "15": "positive"
+    },
+    "9722035:9": {
+        "15": "positive"
+    },
+    "9722035:10": {
+        "15": "positive"
+    },
+    "9722035:11": {
+        "15": "positive"
+    },
+    "9722035:12": {
+        "15": "positive"
+    },
+    "9722035:13": {
+        "15": "positive"
+    },
+    "9722035:14": {
+        "15": "positive"
+    },
+    "9722035:15": {
+        "15": "neutral"
+    },
+    "19497571:15": {
+        "15": "positive"
+    },
+    "19497571:16": {
+        "15": "neutral"
+    },
+    "19497571:17": {
+        "15": "neutral"
+    },
+    "19497571:18": {
+        "15": "positive"
+    },
+    "15948743:14": {
+        "15": "positive"
+    },
+    "15948743:15": {
+        "15": "positive"
+    },
+    "22806822:10": {
+        "15": "neutral"
+    },
+    "17908256:10": {
+        "15": "neutral"
+    },
+    "24848793:8": {
+        "15": "positive"
+    },
+    "16582844:19": {
+        "15": "neutral"
+    },
+    "16582844:20": {
+        "15": "neutral"
+    },
+    "16582844:21": {
+        "15": "positive"
+    },
+    "16582844:22": {
+        "15": "positive"
+    },
+    "20350785:14": {
+        "15": "negative"
+    },
+    "11035679:11": {
+        "15": "positive"
+    },
+    "24530134:14": {
+        "15": "positive"
+    },
+    "12958723:13": {
+        "15": "positive"
+    },
+    "12958723:14": {
+        "15": "neutral"
+    },
+    "2430084:7": {
+        "15": "positive"
+    },
+    "3158903:6": {
+        "15": "positive"
+    },
+    "3158903:7": {
+        "15": "positive"
+    },
+    "11526545:10": {
+        "15": "positive"
+    },
+    "22514897:12": {
+        "15": "negative"
+    },
+    "15253256:16": {
+        "15": "positive"
+    },
+    "22776627:13": {
+        "15": "neutral"
+    },
+    "22776627:14": {
+        "15": "neutral"
+    },
+    "22776627:15": {
+        "15": "neutral"
+    },
+    "18931224:10": {
+        "15": "negative"
+    },
+    "18931224:11": {
+        "15": "positive"
+    },
+    "18931224:12": {
+        "15": "neutral"
+    },
+    "19135111:8": {
+        "15": "positive"
+    },
+    "1375679:5": {
+        "15": "positive"
+    },
+    "19081418:10": {
+        "15": "positive"
+    },
+    "23563024:7": {
+        "15": "positive"
+    },
+    "7709405:13": {
+        "15": "positive"
+    },
+    "7709405:14": {
+        "15": "neutral"
+    },
+    "2899510:3": {
+        "15": "positive"
+    },
+    "8756833:7": {
+        "15": "positive"
+    },
+    "8843757:6": {
+        "15": "positive"
+    },
+    "7750333:7": {
+        "15": "negative"
+    },
+    "7750333:8": {
+        "15": "neutral"
+    },
+    "6794406:4": {
+        "15": "positive"
+    },
+    "6794406:5": {
+        "15": "negative"
+    },
+    "15562907:16": {
+        "15": "positive"
+    },
+    "12610003:9": {
+        "15": "positive"
+    },
+    "19709693:10": {
+        "15": "positive"
+    },
+    "19709693:11": {
+        "15": "negative"
+    },
+    "19709693:12": {
+        "15": "positive"
+    },
+    "15981071:11": {
+        "15": "positive"
+    },
+    "15792513:10": {
+        "15": "positive"
+    },
+    "15792513:11": {
+        "15": "neutral"
+    },
+    "2870109:8": {
+        "15": "positive"
+    },
+    "24058300:12": {
+        "15": "positive"
+    },
+    "24058300:13": {
+        "15": "negative"
+    },
+    "24058300:14": {
+        "15": "neutral"
+    },
+    "10698386:8": {
+        "15": "negative"
+    },
+    "10698386:9": {
+        "15": "negative"
+    },
+    "15897784:10": {
+        "15": "positive"
+    },
+    "15897784:11": {
+        "15": "positive"
+    },
+    "25465809:10": {
+        "15": "neutral"
+    },
+    "25465809:11": {
+        "15": "neutral"
+    },
+    "2457403:7": {
+        "15": "positive"
+    },
+    "20459697:13": {
+        "15": "positive"
+    },
+    "10227615:8": {
+        "15": "positive"
+    },
+    "8040775:9": {
+        "15": "negative"
+    },
+    "21284702:13": {
+        "15": "positive"
+    },
+    "15322439:11": {
+        "15": "negative"
+    },
+    "15322439:12": {
+        "15": "negative"
+    },
+    "1352868:9": {
+        "15": "positive"
+    },
+    "1352868:10": {
+        "15": "neutral"
+    },
+    "9419196:7": {
+        "15": "negative"
+    },
+    "22806235:8": {
+        "15": "positive"
+    },
+    "15082469:10": {
+        "15": "positive"
+    },
+    "2212216:8": {
+        "15": "positive"
+    },
+    "2212216:9": {
+        "15": "neutral"
+    },
+    "10935771:9": {
+        "15": "positive"
+    },
+    "14759425:13": {
+        "15": "neutral"
+    },
+    "14759425:14": {
+        "15": "negative"
+    },
+    "14759425:15": {
+        "15": "positive"
+    },
+    "12224093:10": {
+        "15": "positive"
+    },
+    "24418693:11": {
+        "15": "positive"
+    },
+    "24136691:7": {
+        "15": "positive"
+    },
+    "24136691:8": {
+        "15": "positive"
+    },
+    "24136691:9": {
+        "15": "neutral"
+    },
+    "1830108:9": {
+        "15": "negative"
+    },
+    "409052:3": {
+        "15": "negative"
+    },
+    "409052:4": {
+        "15": "negative"
+    },
+    "23013888:10": {
+        "15": "positive"
+    },
+    "1621223:8": {
+        "15": "neutral"
+    },
+    "15144369:5": {
+        "15": "positive"
+    },
+    "25719344:8": {
+        "15": "positive"
+    },
+    "282082:11": {
+        "15": "positive"
+    },
+    "20516268:9": {
+        "15": "neutral"
+    },
+    "20516268:10": {
+        "15": "neutral"
+    },
+    "12196335:10": {
+        "15": "positive"
+    },
+    "12196335:11": {
+        "15": "positive"
+    },
+    "22144044:8": {
+        "15": "neutral"
+    },
+    "14664876:13": {
+        "15": "positive"
+    },
+    "19680131:6": {
+        "15": "negative"
+    },
+    "12701653:7": {
+        "15": "neutral"
+    },
+    "3058133:10": {
+        "15": "positive"
+    },
+    "19553067:4": {
+        "15": "positive"
+    },
+    "19553067:5": {
+        "15": "positive"
+    },
+    "22420466:10": {
+        "15": "positive"
+    },
+    "22420466:11": {
+        "15": "negative"
+    },
+    "15364875:10": {
+        "15": "neutral"
+    },
+    "15364875:11": {
+        "15": "positive"
+    },
+    "14693983:12": {
+        "15": "positive"
+    },
+    "14656350:14": {
+        "15": "negative"
+    },
+    "20403021:12": {
+        "15": "negative"
+    },
+    "20403021:13": {
+        "15": "neutral"
+    },
+    "12489490:10": {
+        "15": "neutral"
+    },
+    "24489762:15": {
+        "15": "positive"
+    },
+    "24489762:16": {
+        "15": "positive"
+    },
+    "24489762:17": {
+        "15": "neutral"
+    },
+    "12803269:8": {
+        "15": "positive"
+    },
+    "8315260:7": {
+        "15": "negative"
+    },
+    "8315260:8": {
+        "15": "negative"
+    },
+    "9333146:8": {
+        "15": "positive"
+    },
+    "10484801:8": {
+        "15": "positive"
+    },
+    "10484801:9": {
+        "15": "positive"
+    },
+    "7049584:4": {
+        "15": "neutral"
+    },
+    "23764639:10": {
+        "15": "neutral"
+    },
+    "18555939:12": {
+        "15": "positive"
+    },
+    "18555939:13": {
+        "15": "neutral"
+    },
+    "7714603:9": {
+        "15": "positive"
+    },
+    "21416235:15": {
+        "15": "positive"
+    },
+    "22343090:8": {
+        "15": "neutral"
+    },
+    "6374678:6": {
+        "15": "neutral"
+    },
+    "6374678:7": {
+        "15": "neutral"
+    },
+    "23541458:8": {
+        "15": "neutral"
+    },
+    "23541458:9": {
+        "15": "neutral"
+    },
+    "23541458:10": {
+        "15": "neutral"
+    },
+    "23541458:11": {
+        "15": "negative"
+    },
+    "23541458:12": {
+        "15": "negative"
+    },
+    "23541458:13": {
+        "15": "neutral"
+    },
+    "23541458:14": {
+        "15": "negative"
+    },
+    "14872017:10": {
+        "15": "positive"
+    },
+    "8872324:11": {
+        "15": "positive"
+    },
+    "8872324:12": {
+        "15": "neutral"
+    },
+    "12062463:9": {
+        "15": "positive"
+    },
+    "20499255:11": {
+        "15": "positive"
+    },
+    "11915060:11": {
+        "15": "positive"
+    },
+    "16520442:12": {
+        "15": "positive"
+    },
+    "19247684:15": {
+        "15": "positive"
+    },
+    "19247684:16": {
+        "15": "neutral"
+    },
+    "19247684:17": {
+        "15": "negative"
+    },
+    "12784089:7": {
+        "15": "positive"
+    },
+    "12784089:8": {
+        "15": "neutral"
+    },
+    "23078958:17": {
+        "15": "positive"
+    },
+    "23078958:18": {
+        "15": "neutral"
+    },
+    "17983369:9": {
+        "15": "neutral"
+    },
+    "17983369:10": {
+        "15": "positive"
+    },
+    "11154952:7": {
+        "15": "negative"
+    },
+    "11154952:8": {
+        "15": "negative"
+    },
+    "22997073:11": {
+        "15": "negative"
+    },
+    "9534010:9": {
+        "15": "positive"
+    },
+    "9534010:10": {
+        "15": "positive"
+    },
+    "20507898:7": {
+        "15": "negative"
+    },
+    "20507898:8": {
+        "15": "neutral"
+    },
+    "20507898:9": {
+        "15": "neutral"
+    },
+    "7923256:6": {
+        "15": "positive"
+    },
+    "7923256:7": {
+        "15": "neutral"
+    },
+    "15274172:10": {
+        "15": "positive"
+    },
+    "16449866:10": {
+        "15": "positive"
+    },
+    "16449866:11": {
+        "15": "positive"
+    },
+    "18387160:9": {
+        "15": "positive"
+    },
+    "21861719:8": {
+        "15": "negative"
+    },
+    "15701857:15": {
+        "15": "neutral"
+    },
+    "15701857:16": {
+        "15": "neutral"
+    },
+    "9529685:4": {
+        "15": "positive"
+    },
+    "12601104:14": {
+        "15": "positive"
+    },
+    "16054381:10": {
+        "15": "neutral"
+    },
+    "11811113:6": {
+        "15": "positive"
+    },
+    "11811113:7": {
+        "15": "positive"
+    },
+    "21565135:9": {
+        "15": "positive"
+    },
+    "21565135:10": {
+        "15": "neutral"
+    },
+    "17720659:11": {
+        "15": "positive"
+    },
+    "16209659:9": {
+        "15": "negative"
+    },
+    "16209659:10": {
+        "15": "negative"
+    },
+    "17638595:11": {
+        "15": "positive"
+    },
+    "22436542:10": {
+        "15": "neutral"
+    },
+    "22436542:11": {
+        "15": "neutral"
+    },
+    "20668455:11": {
+        "15": "positive"
+    },
+    "20036147:12": {
+        "15": "negative"
+    },
+    "20036147:13": {
+        "15": "neutral"
+    },
+    "20036147:14": {
+        "15": "negative"
+    },
+    "1473420:7": {
+        "15": "positive"
+    },
+    "414083:5": {
+        "15": "positive"
+    },
+    "414083:6": {
+        "15": "neutral"
+    },
+    "414083:7": {
+        "15": "neutral"
+    },
+    "16428156:14": {
+        "15": "positive"
+    },
+    "16428156:15": {
+        "15": "neutral"
+    },
+    "15937632:11": {
+        "15": "negative"
+    },
+    "15937632:12": {
+        "15": "negative"
+    },
+    "2248077:9": {
+        "15": "positive"
+    },
+    "16293412:10": {
+        "15": "positive"
+    },
+    "14579656:9": {
+        "15": "positive"
+    },
+    "14579656:10": {
+        "15": "neutral"
+    },
+    "14579656:11": {
+        "15": "neutral"
+    },
+    "20137432:11": {
+        "15": "positive"
+    },
+    "324620:2": {
+        "15": "positive"
+    },
+    "324620:3": {
+        "15": "neutral"
+    },
+    "21788353:15": {
+        "15": "positive"
+    },
+    "21788353:16": {
+        "15": "positive"
+    },
+    "21788353:17": {
+        "15": "neutral"
+    },
+    "11054648:14": {
+        "15": "negative"
+    },
+    "11054648:15": {
+        "15": "positive"
+    },
+    "11054648:16": {
+        "15": "neutral"
+    },
+    "11703565:10": {
+        "15": "positive"
+    },
+    "11313314:7": {
+        "15": "neutral"
+    },
+    "11313314:8": {
+        "15": "positive"
+    },
+    "11313314:9": {
+        "15": "neutral"
+    },
+    "7674813:8": {
+        "15": "negative"
+    },
+    "7674813:9": {
+        "15": "neutral"
+    },
+    "7674813:10": {
+        "15": "negative"
+    },
+    "7674813:11": {
+        "15": "neutral"
+    }
+}
