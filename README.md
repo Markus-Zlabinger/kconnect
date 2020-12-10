@@ -9,7 +9,7 @@ We make the datasets available to other researchers interested in using the data
   
 ## Annotated Datasets  
   
- The dataset contains annotations for 1,147 clinical trial reports with PIC labels and 1,416 clinical trial reports with sentiment labels. The annotations were created by five annotators working as librarians in medical facilities in the UK. Most samples are annotated redundantly by two annotators on average (wich allows, e.g., aggregation of labels using majority voting).
+ The datasets contain annotations of 1,147 clinical trial reports with PIC labels and 1,416 clinical trial reports with sentiment labels. The annotations were created by five annotators working as librarians in medical facilities in the UK. Most samples are annotated redundantly by two annotators on average (which allows, e.g., aggregation of labels using majority voting).
  
 You find the annotations for sentiment analysis in the subfolder *data/sentiment/*. The annotations for PIC labeling can be found in *data/pic/*. The annotations are linked to sentences, identified by a unique sentence id (senid).  
 The senids are in following format **PMID:SENIDX**, describing a PubMedID (PMID) and the index of the sentence (SENIDX). The sentence texts for each senid can be found in *data/sentences.json*. To split a sentence into tokens that align with the named-entities, you can simply split the sentence by whitespace.  
@@ -54,7 +54,7 @@ More details on the datasets can be found in the following publications:
   
 ```  
 @article{zlabinger2018extracting,
-  title={Extracting the Population, Intervention, Comparison and Sentiment from Randomized Controlled Trials.},
+  title={Extracting the Population, Intervention, Comparison and Sentiment from Randomized Controlled Trials},
   author={Zlabinger, Markus and Andersson, Linda and Brassey, Jon and Hanbury, Allan},
   journal={Studies in Health Technology and Informatics},
   volume={247},
